@@ -1,0 +1,105 @@
+# Voz de apoyo para la exposición. Edita esto y luego ejecuta ./build.sh para regenerar los audios.
+#
+# enabled = true  → ese segmento se genera y entra en la lista de reproducción (en este orden).
+# Atajos (niri):  Mod+Alt+→ siguiente · Mod+Alt+← repetir · Mod+Alt+↓ parar · Mod+Alt+1..9 segmento n.
+# Los id coinciden con las secciones de "bulletin boards's/script.md".
+
+[voice]
+# Mezcla de voces británicas de Kokoro (en-gb). Pesos que suman 1.
+blend = { bf_emma = 0.7, bf_isabella = 0.3 }
+speed = 0.92      # < 1 más pausada y cálida
+pause = 0.35      # segundos de silencio entre frases
+
+[[segment]]
+id = "intro"
+enabled = false
+text = """
+Hello everyone! Today we are going to talk about Linux.
+Maybe you think you have never used it. But you use it every day.
+"""
+
+[[segment]]
+id = "what"
+enabled = false
+text = """
+Linux is an operating system, like Windows or macOS.
+An operating system is the program that controls the computer.
+It connects the hardware, like the keyboard, the screen and the memory, with the programs you use.
+"""
+
+[[segment]]
+id = "kernel"
+enabled = true
+text = """
+Let me explain the kernel.
+The kernel is the heart of Linux. It is the part that talks directly to the hardware.
+It decides which program can use the processor, the memory and the disk, and when.
+When we add tools and programs to the kernel, we get a complete operating system.
+"""
+
+[[segment]]
+id = "history"
+enabled = false
+text = """
+In nineteen ninety-one, a Finnish student called Linus Torvalds started Linux as a hobby.
+He said it was just a hobby, and that it wouldn't be big. He was wrong!
+Today, thousands of people and companies work on it.
+"""
+
+[[segment]]
+id = "opensource"
+enabled = false
+text = """
+Linux is free and open source.
+Free means you don't have to pay, and you have the freedom to use it, study it, change it and share it.
+Open source means that the code is public. Anyone can read it and improve it.
+"""
+
+[[segment]]
+id = "families"
+enabled = true
+text = """
+Most distros belong to three big families.
+The Debian family: Debian, Ubuntu and Linux Mint. They are stable, and very good for beginners.
+The Red Hat family, with Fedora. It is modern, and popular in companies.
+And the Arch family: Arch Linux, Manjaro and CachyOS. They are fast, and always up to date.
+It's like ice cream: the same base, but many flavours.
+"""
+
+[[segment]]
+id = "layers"
+enabled = true
+text = """
+Think of Linux as a cake with layers.
+At the bottom is the hardware. On top of it is the kernel.
+Then the shell and the system services. And at the top, your applications.
+When you click on something, your message travels down through the layers, and the answer comes back up.
+"""
+
+[[segment]]
+id = "commands"
+enabled = false
+text = """
+Here are five basic commands.
+L S shows the files in a folder. C D changes the folder. P W D tells you where you are.
+Make dir creates a new folder. And sudo lets you act as the administrator. Be careful with sudo!
+"""
+
+[[segment]]
+id = "everywhere"
+enabled = true
+text = """
+Linux is everywhere!
+Most of the servers on the internet use Linux.
+Android, on billions of phones, uses the Linux kernel.
+All of the five hundred most powerful supercomputers in the world run Linux.
+And it even flew on Mars, in a little NASA helicopter called Ingenuity.
+"""
+
+[[segment]]
+id = "outro"
+enabled = false
+text = """
+Now it's your turn! Scan the QR code on your card, and find out: what Linux are you?
+Thank you very much for listening.
+"""

@@ -1,0 +1,16 @@
+// Atajos de la voz de la exposición (incluido desde ~/.config/niri/config.d/90-user-extra.kdl).
+binds {
+    Mod+Alt+Right { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "next"; }
+    Mod+Alt+Left  { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "repeat"; }
+    Mod+Alt+Down  { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "stop"; }
+    Mod+Alt+Up    { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "reset"; }
+    Mod+Alt+1 { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "1"; }
+    Mod+Alt+2 { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "2"; }
+    Mod+Alt+3 { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "3"; }
+    Mod+Alt+4 { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "4"; }
+    Mod+Alt+5 { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "5"; }
+    Mod+Alt+6 { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "6"; }
+    Mod+Alt+7 { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "7"; }
+    Mod+Alt+8 { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "8"; }
+    Mod+Alt+9 { spawn "/home/luis/Projects/ExpoEnglish/Expotition Voice/play.sh" "9"; }
+}
