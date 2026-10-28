@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>What Linux are you?</title>
+  <meta name="description" content="Answer 8 quick questions and find the Linux distro that matches your personality.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐧</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="nav"><span>English Presentation · Linux</span></header>
+
+  <main>
+    <section id="intro" class="screen hero">
+      <p class="eyebrow">Quiz</p>
+      <h1>What Linux are you?</h1>
+      <p class="tagline">8 quick questions. One distro that is just like you.</p>
+      <div class="actions">
+        <button class="pill filled" id="start">Start the quiz</button>
+        <a class="pill outlined" href="#about">What is a distro?</a>
+      </div>
+      <div id="about" class="about">
+        <p><strong>Linux</strong> is a free, open source operating system, like Windows or macOS.
+          A <strong>distro</strong> is a version of Linux: the same kernel with different programs and designs.
+          There are hundreds of them. Which one are you?</p>
+      </div>
+    </section>
+
+    <section id="quiz" class="screen" hidden>
+      <div class="progress" aria-hidden="true"><div id="bar"></div></div>
+      <p class="eyebrow" id="counter"></p>
+      <h2 id="question"></h2>
+      <div id="answers" class="answers"></div>
+      <button class="link" id="back">← Back</button>
+    </section>
+
+    <section id="result" class="screen hero" hidden aria-live="polite">
+      <p class="eyebrow">You are…</p>
+      <h1 id="r-name"></h1>
+      <p class="tag" id="r-family"></p>
+      <p class="tagline" id="r-tagline"></p>
+      <p class="desc" id="r-desc"></p>
+      <ul class="matches" id="r-matches"></ul>
+      <div class="actions">
+        <button class="pill filled" id="again">Try again</button>
+        <a class="pill outlined" id="r-link" target="_blank" rel="noopener">Visit the website</a>
+      </div>
+      <button class="link" id="share">Share my result</button>
+    </section>
+  </main>
+
+  <footer class="foot">
+    Made for an English class presentation about Linux · Free and open source, like Linux 🐧
+  </footer>
+  <script src="quiz.js"></script>
+</body>
+</html>

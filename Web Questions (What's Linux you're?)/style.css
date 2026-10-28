@@ -1,0 +1,195 @@
+/* Estilo según DESIGN.md (Apple): lienzo #f5f5f7, tinta #1d1d1f, #0071e3 solo como relleno de acción. */
+:root {
+  --carbon: #1d1d1f;
+  --frost: #f5f5f7;
+  --white: #ffffff;
+  --apple-blue: #0071e3;
+  --link-blue: #0066cc;
+  --signal-blue: #2997ff;
+  --graphite: #474747;
+  --ash: #707070;
+  --hairline: #d2d2d7;
+  --pebble: #e2e2e5;
+  --font: "SF Pro Text", "SF Pro Display", Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--frost);
+  color: var(--carbon);
+  font: 400 17px/1.47 var(--font);
+  letter-spacing: -0.016em;
+}
+
+.nav {
+  background: var(--carbon);
+  color: var(--frost);
+  font-size: 12px;
+  padding: 8px 16px;
+  text-align: center;
+  border-bottom: 1px solid #333;
+}
+
+main {
+  flex: 1;
+  width: 100%;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 56px 16px 48px;
+}
+
+.screen { animation: in .35s ease both; }
+@keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .screen { animation: none; } }
+
+.hero { text-align: center; }
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--ash);
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(40px, 9vw, 56px);
+  line-height: 1.07;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  margin: 0 0 24px;
+  font-size: clamp(26px, 6vw, 40px);
+  line-height: 1.14;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+}
+
+.tagline {
+  margin: 12px auto 0;
+  max-width: 640px;
+  font-size: clamp(21px, 4.5vw, 26px);
+  line-height: 1.24;
+  font-weight: 300;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.pill {
+  display: inline-block;
+  border-radius: 980px;
+  padding: 11px 22px;
+  font: inherit;
+  font-size: 17px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: opacity .15s;
+}
+.pill:hover { opacity: .88; }
+.filled { background: var(--apple-blue); color: #f4f8fb; border: 0; }
+.outlined { background: transparent; color: var(--link-blue); border: 1px solid var(--link-blue); }
+
+.link {
+  margin-top: 24px;
+  background: none;
+  border: 0;
+  padding: 4px;
+  color: var(--link-blue);
+  font: inherit;
+  cursor: pointer;
+}
+.link:hover { text-decoration: underline; }
+
+:focus-visible { outline: 2px solid var(--apple-blue); outline-offset: 3px; }
+
+.about {
+  max-width: 640px;
+  margin: 64px auto 0;
+  padding-top: 24px;
+  border-top: 1px solid var(--hairline);
+  color: var(--graphite);
+  text-align: left;
+}
+
+/* Quiz */
+.progress {
+  height: 4px;
+  background: var(--pebble);
+  border-radius: 980px;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+#bar { height: 100%; width: 0; background: var(--carbon); transition: width .3s ease; }
+
+.answers { display: grid; gap: 12px; }
+@media (min-width: 640px) { .answers { grid-template-columns: 1fr 1fr; } }
+
+.answer {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  min-height: 64px;
+  padding: 16px 20px;
+  background: var(--white);
+  border: 1px solid var(--hairline);
+  border-radius: 8px;
+  color: var(--carbon);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: border-color .15s;
+}
+.answer:hover { border-color: var(--carbon); }
+.answer.selected { border-color: var(--apple-blue); box-shadow: inset 0 0 0 1px var(--apple-blue); }
+.answer .emoji { font-size: 26px; line-height: 1; }
+
+/* Resultado */
+.tag {
+  display: inline-block;
+  margin: 16px 0 0;
+  padding: 4px 12px;
+  border: 1px solid var(--hairline);
+  border-radius: 980px;
+  color: var(--graphite);
+  font-size: 14px;
+}
+.desc { max-width: 640px; margin: 24px auto 0; color: var(--graphite); }
+
+.matches {
+  list-style: none;
+  max-width: 420px;
+  margin: 40px auto 0;
+  padding: 0;
+  text-align: left;
+}
+.matches li { margin-bottom: 12px; font-size: 14px; }
+.matches .row { display: flex; justify-content: space-between; margin-bottom: 4px; }
+.matches .track { height: 6px; background: var(--pebble); border-radius: 980px; overflow: hidden; }
+.matches .fill { height: 100%; background: var(--carbon); border-radius: 980px; }
+.matches li:first-child .fill { background: var(--signal-blue); }
+
+.foot {
+  padding: 20px 16px;
+  border-top: 1px solid var(--hairline);
+  color: var(--ash);
+  font-size: 12px;
+  text-align: center;
+}
