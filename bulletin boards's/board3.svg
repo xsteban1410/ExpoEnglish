@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000mm" height="700mm" viewBox="0 0 1000 700">
+<rect width="1000" height="700" fill="#fff"/>
+<line x1="100.00" y1="0.00" x2="100.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="102.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">10</text>
+<line x1="200.00" y1="0.00" x2="200.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="202.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">20</text>
+<line x1="300.00" y1="0.00" x2="300.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="302.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">30</text>
+<line x1="400.00" y1="0.00" x2="400.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="402.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">40</text>
+<line x1="500.00" y1="0.00" x2="500.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="502.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">50</text>
+<line x1="600.00" y1="0.00" x2="600.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="602.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">60</text>
+<line x1="700.00" y1="0.00" x2="700.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="702.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">70</text>
+<line x1="800.00" y1="0.00" x2="800.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="802.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">80</text>
+<line x1="900.00" y1="0.00" x2="900.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="902.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">90</text>
+<line x1="0.00" y1="100.00" x2="1000.00" y2="100.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="98.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">10</text>
+<line x1="0.00" y1="200.00" x2="1000.00" y2="200.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="198.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">20</text>
+<line x1="0.00" y1="300.00" x2="1000.00" y2="300.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="298.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">30</text>
+<line x1="0.00" y1="400.00" x2="1000.00" y2="400.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="398.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">40</text>
+<line x1="0.00" y1="500.00" x2="1000.00" y2="500.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="498.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">50</text>
+<line x1="0.00" y1="600.00" x2="1000.00" y2="600.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="598.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">60</text>
+<rect x="1.00" y="1.00" width="998.00" height="698.00" rx="0" fill="none" stroke="#000" stroke-width="1"/>
+<text x="40.00" y="115.00" font-family="Inter" font-size="80.00" font-weight="700" fill="#000" text-anchor="start">HOW DOES IT WORK?</text>
+<text x="42.00" y="160.00" font-family="Inter" font-size="28.00" font-weight="300" fill="#000" text-anchor="start">Linux is like a cake: it has layers.</text>
+<text x="40.00" y="690.00" font-family="Inter" font-size="11.00" font-weight="300" fill="#777" text-anchor="start">Pliego 3/4 · 100 × 70 cm horizontal · cuadrícula = 10 cm · alto de letra: título ≈ 5,8 cm, encabezados ≈ 2,2 cm, texto ≈ 1,6 cm</text>
+<rect x="110.00" y="190.00" width="360.00" height="100.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="290.00" y="235.00" font-family="Inter" font-size="26.00" font-weight="700" fill="#000" text-anchor="middle">APPLICATIONS</text>
+<text x="290.00" y="268.00" font-family="Inter" font-size="17.00" font-weight="300" fill="#000" text-anchor="middle">browser · music · games</text>
+<rect x="110.00" y="305.00" width="360.00" height="100.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="290.00" y="350.00" font-family="Inter" font-size="26.00" font-weight="700" fill="#000" text-anchor="middle">SHELL &amp; SYSTEM</text>
+<text x="290.00" y="383.00" font-family="Inter" font-size="17.00" font-weight="300" fill="#000" text-anchor="middle">commands · services</text>
+<rect x="110.00" y="420.00" width="360.00" height="100.00" rx="6" fill="none" stroke="#000" stroke-width="2.5"/>
+<text x="290.00" y="465.00" font-family="Inter" font-size="26.00" font-weight="700" fill="#000" text-anchor="middle">KERNEL</text>
+<text x="290.00" y="498.00" font-family="Inter" font-size="17.00" font-weight="300" fill="#000" text-anchor="middle">the heart</text>
+<rect x="110.00" y="535.00" width="360.00" height="100.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="290.00" y="580.00" font-family="Inter" font-size="26.00" font-weight="700" fill="#000" text-anchor="middle">HARDWARE</text>
+<text x="290.00" y="613.00" font-family="Inter" font-size="17.00" font-weight="300" fill="#000" text-anchor="middle">CPU · memory · disk · screen</text>
+<line x1="60.00" y1="200.00" x2="60.00" y2="631.00" stroke="#000" stroke-width="1.5"/>
+<polygon points="60.00,640.00 64.50,631.00 55.50,631.00" fill="#000"/>
+<line x1="85.00" y1="640.00" x2="85.00" y2="209.00" stroke="#000" stroke-width="1.5"/>
+<polygon points="85.00,200.00 80.50,209.00 89.50,209.00" fill="#000"/>
+<text x="40.00" y="670.00" font-family="Inter" font-size="11.00" font-weight="300" fill="#777" text-anchor="start">flechas: el clic baja, la respuesta sube</text>
+<rect x="520.00" y="190.00" width="440.00" height="230.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="538.00" y="232.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">DESKTOP  vs  TERMINAL</text>
+<line x1="740.00" y1="250.00" x2="740.00" y2="405.00" stroke="#000" stroke-width="0.5" stroke-dasharray="6 4"/>
+<text x="538.00" y="269.40" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="start">Windows, icons and</text>
+<text x="538.00" y="292.80" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="start">a mouse. GNOME ·</text>
+<text x="538.00" y="316.20" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="start">KDE Plasma</text>
+<text x="758.00" y="269.40" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="start">Write commands.</text>
+<text x="758.00" y="292.80" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="start">Fast and powerful!</text>
+<rect x="758.00" y="340.00" width="180.00" height="60.00" rx="4" fill="#000" stroke="#000" stroke-width="0.5"/>
+<text x="770.00" y="378.00" font-family="DejaVu Sans Mono" font-size="24.00" font-weight="700" fill="#fff" text-anchor="start">$ _</text>
+<rect x="520.00" y="450.00" width="440.00" height="210.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="538.00" y="492.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">5 BASIC COMMANDS</text>
+<text x="545.00" y="528.00" font-family="DejaVu Sans Mono" font-size="20.00" font-weight="700" fill="#000" text-anchor="start">ls</text>
+<text x="650.00" y="528.00" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">→ show the files</text>
+<text x="545.00" y="556.00" font-family="DejaVu Sans Mono" font-size="20.00" font-weight="700" fill="#000" text-anchor="start">cd</text>
+<text x="650.00" y="556.00" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">→ change folder</text>
+<text x="545.00" y="584.00" font-family="DejaVu Sans Mono" font-size="20.00" font-weight="700" fill="#000" text-anchor="start">pwd</text>
+<text x="650.00" y="584.00" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">→ where am I?</text>
+<text x="545.00" y="612.00" font-family="DejaVu Sans Mono" font-size="20.00" font-weight="700" fill="#000" text-anchor="start">mkdir</text>
+<text x="650.00" y="612.00" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">→ new folder</text>
+<text x="545.00" y="640.00" font-family="DejaVu Sans Mono" font-size="20.00" font-weight="700" fill="#000" text-anchor="start">sudo</text>
+<text x="650.00" y="640.00" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">→ admin power (careful!)</text>
+</svg>

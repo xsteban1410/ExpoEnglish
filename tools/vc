@@ -1,0 +1,3 @@
+#!/bin/sh
+# vectorcraft-cli (flatpak) con acceso al repo y al directorio actual.
+exec flatpak run --filesystem="$(cd "$(dirname "$0")/.." && pwd)" --filesystem="$PWD" --command=vectorcraft-cli ai.storyteller.vectorcraft "$@"

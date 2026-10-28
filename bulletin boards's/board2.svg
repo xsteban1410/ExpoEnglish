@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000mm" height="700mm" viewBox="0 0 1000 700">
+<rect width="1000" height="700" fill="#fff"/>
+<line x1="100.00" y1="0.00" x2="100.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="102.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">10</text>
+<line x1="200.00" y1="0.00" x2="200.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="202.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">20</text>
+<line x1="300.00" y1="0.00" x2="300.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="302.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">30</text>
+<line x1="400.00" y1="0.00" x2="400.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="402.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">40</text>
+<line x1="500.00" y1="0.00" x2="500.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="502.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">50</text>
+<line x1="600.00" y1="0.00" x2="600.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="602.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">60</text>
+<line x1="700.00" y1="0.00" x2="700.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="702.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">70</text>
+<line x1="800.00" y1="0.00" x2="800.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="802.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">80</text>
+<line x1="900.00" y1="0.00" x2="900.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="902.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">90</text>
+<line x1="0.00" y1="100.00" x2="1000.00" y2="100.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="98.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">10</text>
+<line x1="0.00" y1="200.00" x2="1000.00" y2="200.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="198.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">20</text>
+<line x1="0.00" y1="300.00" x2="1000.00" y2="300.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="298.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">30</text>
+<line x1="0.00" y1="400.00" x2="1000.00" y2="400.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="398.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">40</text>
+<line x1="0.00" y1="500.00" x2="1000.00" y2="500.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="498.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">50</text>
+<line x1="0.00" y1="600.00" x2="1000.00" y2="600.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="598.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">60</text>
+<rect x="1.00" y="1.00" width="998.00" height="698.00" rx="0" fill="none" stroke="#000" stroke-width="1"/>
+<text x="40.00" y="115.00" font-family="Inter" font-size="80.00" font-weight="700" fill="#000" text-anchor="start">DISTROS</text>
+<text x="42.00" y="160.00" font-family="Inter" font-size="28.00" font-weight="300" fill="#000" text-anchor="start">Distro = Linux kernel + programs + design + tools.</text>
+<text x="40.00" y="690.00" font-family="Inter" font-size="11.00" font-weight="300" fill="#777" text-anchor="start">Pliego 2/4 · 100 × 70 cm horizontal · cuadrícula = 10 cm · alto de letra: título ≈ 5,8 cm, encabezados ≈ 2,2 cm, texto ≈ 1,6 cm</text>
+<rect x="370.00" y="190.00" width="260.00" height="60.00" rx="6" fill="none" stroke="#000" stroke-width="1.5"/>
+<text x="500.00" y="230.00" font-family="Inter" font-size="26.00" font-weight="700" fill="#000" text-anchor="middle">LINUX KERNEL</text>
+<line x1="500.00" y1="250.00" x2="182.07" y2="310.65" stroke="#000" stroke-width="1.2"/>
+<polygon points="175.00,312.00 182.75,314.19 181.40,307.11" fill="#000"/>
+<rect x="35.00" y="315.00" width="280.00" height="210.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="175.00" y="352.00" font-family="Inter" font-size="24.00" font-weight="700" fill="#000" text-anchor="middle">DEBIAN FAMILY</text>
+<line x1="55.00" y1="366.00" x2="295.00" y2="366.00" stroke="#000" stroke-width="0.5"/>
+<text x="175.00" y="404.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Debian</text>
+<text x="175.00" y="438.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Ubuntu</text>
+<text x="175.00" y="472.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Linux Mint</text>
+<text x="175.00" y="510.00" font-family="Inter" font-size="16.00" font-weight="300" fill="#000" text-anchor="middle">stable · great for beginners</text>
+<line x1="500.00" y1="250.00" x2="500.00" y2="304.80" stroke="#000" stroke-width="1.2"/>
+<polygon points="500.00,312.00 503.60,304.80 496.40,304.80" fill="#000"/>
+<rect x="360.00" y="315.00" width="280.00" height="210.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="500.00" y="352.00" font-family="Inter" font-size="24.00" font-weight="700" fill="#000" text-anchor="middle">RED HAT FAMILY</text>
+<line x1="380.00" y1="366.00" x2="620.00" y2="366.00" stroke="#000" stroke-width="0.5"/>
+<text x="500.00" y="404.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Fedora</text>
+<text x="500.00" y="438.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Red Hat Enterprise</text>
+<text x="500.00" y="510.00" font-family="Inter" font-size="16.00" font-weight="300" fill="#000" text-anchor="middle">modern · used by companies</text>
+<line x1="500.00" y1="250.00" x2="817.93" y2="310.65" stroke="#000" stroke-width="1.2"/>
+<polygon points="825.00,312.00 818.60,307.11 817.25,314.19" fill="#000"/>
+<rect x="685.00" y="315.00" width="280.00" height="210.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="825.00" y="352.00" font-family="Inter" font-size="24.00" font-weight="700" fill="#000" text-anchor="middle">ARCH FAMILY</text>
+<line x1="705.00" y1="366.00" x2="945.00" y2="366.00" stroke="#000" stroke-width="0.5"/>
+<text x="825.00" y="404.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Arch Linux</text>
+<text x="825.00" y="438.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Manjaro</text>
+<text x="825.00" y="472.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">CachyOS</text>
+<text x="825.00" y="510.00" font-family="Inter" font-size="16.00" font-weight="300" fill="#000" text-anchor="middle">fast · always up to date</text>
+<rect x="40.00" y="550.00" width="440.00" height="115.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="58.00" y="592.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">SPECIAL DISTROS</text>
+<text x="58.00" y="625.20" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">Kali Linux → security · SteamOS → video</text>
+<text x="58.00" y="649.90" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">games</text>
+<rect x="520.00" y="550.00" width="440.00" height="115.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="538.00" y="592.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">LIKE ICE CREAM</text>
+<text x="538.00" y="625.20" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">Same base, many flavours. There are</text>
+<text x="538.00" y="649.90" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">hundreds of distros!</text>
+</svg>

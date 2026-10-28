@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000mm" height="700mm" viewBox="0 0 1000 700">
+<rect width="1000" height="700" fill="#fff"/>
+<line x1="100.00" y1="0.00" x2="100.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="102.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">10</text>
+<line x1="200.00" y1="0.00" x2="200.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="202.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">20</text>
+<line x1="300.00" y1="0.00" x2="300.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="302.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">30</text>
+<line x1="400.00" y1="0.00" x2="400.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="402.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">40</text>
+<line x1="500.00" y1="0.00" x2="500.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="502.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">50</text>
+<line x1="600.00" y1="0.00" x2="600.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="602.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">60</text>
+<line x1="700.00" y1="0.00" x2="700.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="702.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">70</text>
+<line x1="800.00" y1="0.00" x2="800.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="802.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">80</text>
+<line x1="900.00" y1="0.00" x2="900.00" y2="700.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="902.00" y="8.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">90</text>
+<line x1="0.00" y1="100.00" x2="1000.00" y2="100.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="98.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">10</text>
+<line x1="0.00" y1="200.00" x2="1000.00" y2="200.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="198.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">20</text>
+<line x1="0.00" y1="300.00" x2="1000.00" y2="300.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="298.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">30</text>
+<line x1="0.00" y1="400.00" x2="1000.00" y2="400.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="398.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">40</text>
+<line x1="0.00" y1="500.00" x2="1000.00" y2="500.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="498.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">50</text>
+<line x1="0.00" y1="600.00" x2="1000.00" y2="600.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
+<text x="2.00" y="598.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">60</text>
+<rect x="1.00" y="1.00" width="998.00" height="698.00" rx="0" fill="none" stroke="#000" stroke-width="1"/>
+<text x="40.00" y="115.00" font-family="Inter" font-size="80.00" font-weight="700" fill="#000" text-anchor="start">WHAT IS LINUX?</text>
+<text x="42.00" y="160.00" font-family="Inter" font-size="28.00" font-weight="300" fill="#000" text-anchor="start">An operating system, like Windows or macOS.</text>
+<text x="40.00" y="690.00" font-family="Inter" font-size="11.00" font-weight="300" fill="#777" text-anchor="start">Pliego 1/4 · 100 × 70 cm horizontal · cuadrícula = 10 cm · alto de letra: título ≈ 5,8 cm, encabezados ≈ 2,2 cm, texto ≈ 1,6 cm</text>
+<circle cx="880.00" cy="90.00" r="48.00" fill="none" stroke="#000" stroke-width="1"/>
+<text x="880.00" y="98.00" font-family="Inter" font-size="24.00" font-weight="700" fill="#000" text-anchor="middle">Tux</text>
+<text x="790.00" y="158.00" font-family="Inter" font-size="11.00" font-weight="300" fill="#777" text-anchor="start">silueta simple del pingüino (opcional)</text>
+<rect x="40.00" y="190.00" width="440.00" height="230.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="58.00" y="232.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">OPERATING SYSTEM</text>
+<text x="58.00" y="267.60" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="start">The program that controls the</text>
+<text x="58.00" y="296.20" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="start">computer. It connects the hardware</text>
+<text x="58.00" y="324.80" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="start">with your programs.</text>
+<rect x="60.00" y="345.80" width="110.00" height="50.00" rx="4" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="115.00" y="377.80" font-family="Inter" font-size="18.00" font-weight="600" fill="#000" text-anchor="middle">Hardware</text>
+<rect x="200.00" y="345.80" width="110.00" height="50.00" rx="4" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="255.00" y="377.80" font-family="Inter" font-size="18.00" font-weight="600" fill="#000" text-anchor="middle">OS</text>
+<line x1="172.00" y1="370.80" x2="193.00" y2="370.80" stroke="#000" stroke-width="0.5"/>
+<polygon points="196.00,370.80 193.00,369.30 193.00,372.30" fill="#000"/>
+<line x1="196.00" y1="370.80" x2="175.00" y2="370.80" stroke="#000" stroke-width="0.5"/>
+<polygon points="172.00,370.80 175.00,372.30 175.00,369.30" fill="#000"/>
+<rect x="340.00" y="345.80" width="110.00" height="50.00" rx="4" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="395.00" y="377.80" font-family="Inter" font-size="18.00" font-weight="600" fill="#000" text-anchor="middle">Programs</text>
+<line x1="312.00" y1="370.80" x2="333.00" y2="370.80" stroke="#000" stroke-width="0.5"/>
+<polygon points="336.00,370.80 333.00,369.30 333.00,372.30" fill="#000"/>
+<line x1="336.00" y1="370.80" x2="315.00" y2="370.80" stroke="#000" stroke-width="0.5"/>
+<polygon points="312.00,370.80 315.00,372.30 315.00,369.30" fill="#000"/>
+<rect x="520.00" y="190.00" width="440.00" height="230.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="538.00" y="232.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">THE KERNEL</text>
+<text x="538.00" y="267.60" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="start">The heart of Linux. It talks</text>
+<text x="538.00" y="296.20" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="start">directly to the hardware: the</text>
+<text x="538.00" y="324.80" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="start">processor, the memory and the</text>
+<text x="538.00" y="353.40" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="start">disk. Kernel + tools = a complete</text>
+<text x="538.00" y="382.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="start">operating system.</text>
+<rect x="40.00" y="450.00" width="580.00" height="210.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="58.00" y="492.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">HISTORY</text>
+<line x1="70.00" y1="560.00" x2="591.00" y2="560.00" stroke="#000" stroke-width="1.5"/>
+<polygon points="600.00,560.00 591.00,555.50 591.00,564.50" fill="#000"/>
+<line x1="110.00" y1="548.00" x2="110.00" y2="572.00" stroke="#000" stroke-width="1.5"/>
+<text x="110.00" y="540.00" font-family="Inter" font-size="26.00" font-weight="700" fill="#000" text-anchor="middle">1983</text>
+<text x="110.00" y="600.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">GNU project</text>
+<text x="110.00" y="624.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">Richard Stallman</text>
+<line x1="290.00" y1="548.00" x2="290.00" y2="572.00" stroke="#000" stroke-width="1.5"/>
+<text x="290.00" y="540.00" font-family="Inter" font-size="26.00" font-weight="700" fill="#000" text-anchor="middle">1991</text>
+<text x="290.00" y="600.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">Linus Torvalds,</text>
+<text x="290.00" y="624.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">student in Finland</text>
+<line x1="470.00" y1="548.00" x2="470.00" y2="572.00" stroke="#000" stroke-width="1.5"/>
+<text x="470.00" y="540.00" font-family="Inter" font-size="26.00" font-weight="700" fill="#000" text-anchor="middle">TODAY</text>
+<text x="470.00" y="600.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">thousands of</text>
+<text x="470.00" y="624.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">developers</text>
+<text x="290.00" y="650.00" font-family="Inter" font-size="16.00" font-weight="300" fill="#000" text-anchor="middle">"Just a hobby, it won't be big."</text>
+<rect x="660.00" y="450.00" width="300.00" height="210.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="678.00" y="492.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">FREE &amp; OPEN</text>
+<text x="678.00" y="525.20" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">Free: $0 + freedom to use,</text>
+<text x="678.00" y="549.90" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">study, change and share.</text>
+<text x="678.00" y="574.60" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">Open source: the code is</text>
+<text x="678.00" y="599.30" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">public.</text>
+</svg>

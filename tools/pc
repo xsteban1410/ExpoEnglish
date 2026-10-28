@@ -1,0 +1,3 @@
+#!/bin/sh
+# pdfcraft-cli (flatpak) con acceso al repo y al directorio actual.
+exec flatpak run --filesystem="$(cd "$(dirname "$0")/.." && pwd)" --filesystem="$PWD" --command=pdfcraft-cli ai.storyteller.pdfcraft "$@"
