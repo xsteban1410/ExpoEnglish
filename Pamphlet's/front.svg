@@ -1,97 +1,123 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215.9mm" height="279.4mm" viewBox="0 0 215.9 279.4">
 <rect width="215.9" height="279.4" fill="#fff"/>
-<g transform="translate(0.00,0.00)"><text x="53.98" y="16.00" font-family="Inter" font-size="2.60" font-weight="600" fill="#707070" text-anchor="middle" letter-spacing="0.4">ENGLISH PRESENTATION</text>
-<text x="53.98" y="36.00" font-family="Inter" font-size="17.00" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.3">Linux</text>
-<text x="53.98" y="45.00" font-family="Inter" font-size="4.20" font-weight="300" fill="#1d1d1f" text-anchor="middle">The free system that runs the world.</text>
-<line x1="9.00" y1="52.00" x2="98.95" y2="52.00" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="9.00" y="61.00" font-family="Inter" font-size="4.40" font-weight="600" fill="#1d1d1f" text-anchor="start">What is it?</text>
-<text x="9.00" y="66.06" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">An operating system, like Windows or macOS. Its heart</text>
-<text x="9.00" y="70.38" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">is the kernel: the part that talks to the hardware.</text>
-<line x1="9.00" y1="75.14" x2="98.95" y2="75.14" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="23.99" y="87.14" font-family="Inter" font-size="6.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">1991</text>
-<text x="23.99" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Linus Torvalds</text>
-<text x="23.99" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">starts it as a hobby</text>
-<text x="53.98" y="87.14" font-family="Inter" font-size="6.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">Free</text>
-<text x="53.98" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Open source:</text>
-<text x="53.98" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">the code is public</text>
-<text x="83.96" y="87.14" font-family="Inter" font-size="5.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">500/500</text>
-<text x="83.96" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Top supercomputers</text>
-<text x="83.96" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">run Linux</text>
-<line x1="9.00" y1="103.14" x2="98.95" y2="103.14" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="9.00" y="112.14" font-family="Inter" font-size="4.40" font-weight="600" fill="#1d1d1f" text-anchor="start">It's everywhere</text>
-<text x="9.00" y="117.20" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">Internet servers, Android phones, smart TVs, cars,</text>
-<text x="9.00" y="121.52" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">routers, the Steam Deck and even a NASA helicopter on</text>
-<text x="9.00" y="125.84" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">Mars.</text>
-<text x="53.98" y="132.70" font-family="Inter" font-size="2.60" font-weight="300" fill="#707070" text-anchor="middle">Free · Secure · Customizable · Big community</text></g>
-<g transform="translate(107.95,0.00)"><text x="53.98" y="16.00" font-family="Inter" font-size="2.60" font-weight="600" fill="#707070" text-anchor="middle" letter-spacing="0.4">ENGLISH PRESENTATION</text>
-<text x="53.98" y="36.00" font-family="Inter" font-size="17.00" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.3">Linux</text>
-<text x="53.98" y="45.00" font-family="Inter" font-size="4.20" font-weight="300" fill="#1d1d1f" text-anchor="middle">The free system that runs the world.</text>
-<line x1="9.00" y1="52.00" x2="98.95" y2="52.00" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="9.00" y="61.00" font-family="Inter" font-size="4.40" font-weight="600" fill="#1d1d1f" text-anchor="start">What is it?</text>
-<text x="9.00" y="66.06" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">An operating system, like Windows or macOS. Its heart</text>
-<text x="9.00" y="70.38" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">is the kernel: the part that talks to the hardware.</text>
-<line x1="9.00" y1="75.14" x2="98.95" y2="75.14" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="23.99" y="87.14" font-family="Inter" font-size="6.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">1991</text>
-<text x="23.99" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Linus Torvalds</text>
-<text x="23.99" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">starts it as a hobby</text>
-<text x="53.98" y="87.14" font-family="Inter" font-size="6.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">Free</text>
-<text x="53.98" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Open source:</text>
-<text x="53.98" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">the code is public</text>
-<text x="83.96" y="87.14" font-family="Inter" font-size="5.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">500/500</text>
-<text x="83.96" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Top supercomputers</text>
-<text x="83.96" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">run Linux</text>
-<line x1="9.00" y1="103.14" x2="98.95" y2="103.14" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="9.00" y="112.14" font-family="Inter" font-size="4.40" font-weight="600" fill="#1d1d1f" text-anchor="start">It's everywhere</text>
-<text x="9.00" y="117.20" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">Internet servers, Android phones, smart TVs, cars,</text>
-<text x="9.00" y="121.52" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">routers, the Steam Deck and even a NASA helicopter on</text>
-<text x="9.00" y="125.84" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">Mars.</text>
-<text x="53.98" y="132.70" font-family="Inter" font-size="2.60" font-weight="300" fill="#707070" text-anchor="middle">Free · Secure · Customizable · Big community</text></g>
-<g transform="translate(0.00,139.70)"><text x="53.98" y="16.00" font-family="Inter" font-size="2.60" font-weight="600" fill="#707070" text-anchor="middle" letter-spacing="0.4">ENGLISH PRESENTATION</text>
-<text x="53.98" y="36.00" font-family="Inter" font-size="17.00" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.3">Linux</text>
-<text x="53.98" y="45.00" font-family="Inter" font-size="4.20" font-weight="300" fill="#1d1d1f" text-anchor="middle">The free system that runs the world.</text>
-<line x1="9.00" y1="52.00" x2="98.95" y2="52.00" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="9.00" y="61.00" font-family="Inter" font-size="4.40" font-weight="600" fill="#1d1d1f" text-anchor="start">What is it?</text>
-<text x="9.00" y="66.06" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">An operating system, like Windows or macOS. Its heart</text>
-<text x="9.00" y="70.38" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">is the kernel: the part that talks to the hardware.</text>
-<line x1="9.00" y1="75.14" x2="98.95" y2="75.14" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="23.99" y="87.14" font-family="Inter" font-size="6.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">1991</text>
-<text x="23.99" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Linus Torvalds</text>
-<text x="23.99" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">starts it as a hobby</text>
-<text x="53.98" y="87.14" font-family="Inter" font-size="6.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">Free</text>
-<text x="53.98" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Open source:</text>
-<text x="53.98" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">the code is public</text>
-<text x="83.96" y="87.14" font-family="Inter" font-size="5.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">500/500</text>
-<text x="83.96" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Top supercomputers</text>
-<text x="83.96" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">run Linux</text>
-<line x1="9.00" y1="103.14" x2="98.95" y2="103.14" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="9.00" y="112.14" font-family="Inter" font-size="4.40" font-weight="600" fill="#1d1d1f" text-anchor="start">It's everywhere</text>
-<text x="9.00" y="117.20" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">Internet servers, Android phones, smart TVs, cars,</text>
-<text x="9.00" y="121.52" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">routers, the Steam Deck and even a NASA helicopter on</text>
-<text x="9.00" y="125.84" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">Mars.</text>
-<text x="53.98" y="132.70" font-family="Inter" font-size="2.60" font-weight="300" fill="#707070" text-anchor="middle">Free · Secure · Customizable · Big community</text></g>
-<g transform="translate(107.95,139.70)"><text x="53.98" y="16.00" font-family="Inter" font-size="2.60" font-weight="600" fill="#707070" text-anchor="middle" letter-spacing="0.4">ENGLISH PRESENTATION</text>
-<text x="53.98" y="36.00" font-family="Inter" font-size="17.00" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.3">Linux</text>
-<text x="53.98" y="45.00" font-family="Inter" font-size="4.20" font-weight="300" fill="#1d1d1f" text-anchor="middle">The free system that runs the world.</text>
-<line x1="9.00" y1="52.00" x2="98.95" y2="52.00" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="9.00" y="61.00" font-family="Inter" font-size="4.40" font-weight="600" fill="#1d1d1f" text-anchor="start">What is it?</text>
-<text x="9.00" y="66.06" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">An operating system, like Windows or macOS. Its heart</text>
-<text x="9.00" y="70.38" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">is the kernel: the part that talks to the hardware.</text>
-<line x1="9.00" y1="75.14" x2="98.95" y2="75.14" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="23.99" y="87.14" font-family="Inter" font-size="6.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">1991</text>
-<text x="23.99" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Linus Torvalds</text>
-<text x="23.99" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">starts it as a hobby</text>
-<text x="53.98" y="87.14" font-family="Inter" font-size="6.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">Free</text>
-<text x="53.98" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Open source:</text>
-<text x="53.98" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">the code is public</text>
-<text x="83.96" y="87.14" font-family="Inter" font-size="5.20" font-weight="600" fill="#1d1d1f" text-anchor="middle" letter-spacing="-0.1">500/500</text>
-<text x="83.96" y="93.14" font-family="Inter" font-size="2.50" font-weight="600" fill="#333333" text-anchor="middle">Top supercomputers</text>
-<text x="83.96" y="96.64" font-family="Inter" font-size="2.50" font-weight="300" fill="#333333" text-anchor="middle">run Linux</text>
-<line x1="9.00" y1="103.14" x2="98.95" y2="103.14" stroke="#d2d2d7" stroke-width="0.25"/>
-<text x="9.00" y="112.14" font-family="Inter" font-size="4.40" font-weight="600" fill="#1d1d1f" text-anchor="start">It's everywhere</text>
-<text x="9.00" y="117.20" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">Internet servers, Android phones, smart TVs, cars,</text>
-<text x="9.00" y="121.52" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">routers, the Steam Deck and even a NASA helicopter on</text>
-<text x="9.00" y="125.84" font-family="Inter" font-size="3.20" font-weight="400" fill="#333333" text-anchor="start">Mars.</text>
-<text x="53.98" y="132.70" font-family="Inter" font-size="2.60" font-weight="300" fill="#707070" text-anchor="middle">Free · Secure · Customizable · Big community</text></g>
-<line x1="107.95" y1="0.00" x2="107.95" y2="279.40" stroke="#d2d2d7" stroke-width="0.2" stroke-dasharray="1.5 1.5"/>
-<line x1="0.00" y1="139.70" x2="215.90" y2="139.70" stroke="#d2d2d7" stroke-width="0.2" stroke-dasharray="1.5 1.5"/>
+<g transform="translate(6.00,6.00)"><rect x="0.00" y="0.00" width="101.95" height="133.70" rx="0" fill="#f2f0eb" stroke="none" stroke-width="0"/>
+<text x="9.00" y="13.00" font-family="Inter" font-size="2.60" font-weight="600" fill="#666666" text-anchor="start">English presentation</text>
+<text x="8.40" y="30.00" font-family="Inter" font-size="17.00" font-weight="500" fill="#292827" text-anchor="start" letter-spacing="-0.45">Linux</text>
+<text x="9.00" y="38.00" font-family="Inter" font-size="4.00" font-weight="400" fill="#292827" text-anchor="start" letter-spacing="-0.05">The free system that runs the world.</text>
+<rect x="9.00" y="44.00" width="83.95" height="26.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="13.00" y="51.00" font-family="Inter" font-size="3.20" font-weight="600" fill="#292827" text-anchor="start">What is it?</text>
+<text x="13.00" y="55.82" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">An operating system, like Windows or macOS. Its</text>
+<text x="13.00" y="59.73" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">heart is the kernel: the part that talks to the</text>
+<text x="13.00" y="63.65" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">hardware.</text>
+<rect x="9.00" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="12.00" y="83.00" font-family="Inter" font-size="5.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">1991</text>
+<text x="12.00" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Linus Torvalds</text>
+<text x="12.00" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">starts it as a hobby</text>
+<rect x="37.98" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="40.98" y="83.00" font-family="Inter" font-size="5.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">Free</text>
+<text x="40.98" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Open source</text>
+<text x="40.98" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">the code is public</text>
+<rect x="66.97" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="69.97" y="83.00" font-family="Inter" font-size="4.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">500/500</text>
+<text x="69.97" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Supercomputers</text>
+<text x="69.97" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">all run Linux</text>
+<rect x="0.00" y="104.00" width="101.95" height="29.70" rx="0" fill="#421d24" stroke="none" stroke-width="0"/>
+<text x="9.00" y="112.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">It's everywhere</text>
+<text x="9.00" y="116.66" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">Internet servers, Android phones, smart TVs, cars,</text>
+<text x="9.00" y="120.30" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">routers, the Steam Deck and even a NASA helicopter on</text>
+<text x="9.00" y="123.95" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">Mars.</text>
+<text x="9.00" y="128.70" font-family="Inter" font-size="2.30" font-weight="600" fill="#ffffff" text-anchor="start">Free · Secure · Customizable · Big community</text></g>
+<g transform="translate(107.95,6.00)"><rect x="0.00" y="0.00" width="101.95" height="133.70" rx="0" fill="#f2f0eb" stroke="none" stroke-width="0"/>
+<text x="9.00" y="13.00" font-family="Inter" font-size="2.60" font-weight="600" fill="#666666" text-anchor="start">English presentation</text>
+<text x="8.40" y="30.00" font-family="Inter" font-size="17.00" font-weight="500" fill="#292827" text-anchor="start" letter-spacing="-0.45">Linux</text>
+<text x="9.00" y="38.00" font-family="Inter" font-size="4.00" font-weight="400" fill="#292827" text-anchor="start" letter-spacing="-0.05">The free system that runs the world.</text>
+<rect x="9.00" y="44.00" width="83.95" height="26.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="13.00" y="51.00" font-family="Inter" font-size="3.20" font-weight="600" fill="#292827" text-anchor="start">What is it?</text>
+<text x="13.00" y="55.82" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">An operating system, like Windows or macOS. Its</text>
+<text x="13.00" y="59.73" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">heart is the kernel: the part that talks to the</text>
+<text x="13.00" y="63.65" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">hardware.</text>
+<rect x="9.00" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="12.00" y="83.00" font-family="Inter" font-size="5.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">1991</text>
+<text x="12.00" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Linus Torvalds</text>
+<text x="12.00" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">starts it as a hobby</text>
+<rect x="37.98" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="40.98" y="83.00" font-family="Inter" font-size="5.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">Free</text>
+<text x="40.98" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Open source</text>
+<text x="40.98" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">the code is public</text>
+<rect x="66.97" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="69.97" y="83.00" font-family="Inter" font-size="4.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">500/500</text>
+<text x="69.97" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Supercomputers</text>
+<text x="69.97" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">all run Linux</text>
+<rect x="0.00" y="104.00" width="101.95" height="29.70" rx="0" fill="#421d24" stroke="none" stroke-width="0"/>
+<text x="9.00" y="112.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">It's everywhere</text>
+<text x="9.00" y="116.66" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">Internet servers, Android phones, smart TVs, cars,</text>
+<text x="9.00" y="120.30" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">routers, the Steam Deck and even a NASA helicopter on</text>
+<text x="9.00" y="123.95" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">Mars.</text>
+<text x="9.00" y="128.70" font-family="Inter" font-size="2.30" font-weight="600" fill="#ffffff" text-anchor="start">Free · Secure · Customizable · Big community</text></g>
+<g transform="translate(6.00,139.70)"><rect x="0.00" y="0.00" width="101.95" height="133.70" rx="0" fill="#f2f0eb" stroke="none" stroke-width="0"/>
+<text x="9.00" y="13.00" font-family="Inter" font-size="2.60" font-weight="600" fill="#666666" text-anchor="start">English presentation</text>
+<text x="8.40" y="30.00" font-family="Inter" font-size="17.00" font-weight="500" fill="#292827" text-anchor="start" letter-spacing="-0.45">Linux</text>
+<text x="9.00" y="38.00" font-family="Inter" font-size="4.00" font-weight="400" fill="#292827" text-anchor="start" letter-spacing="-0.05">The free system that runs the world.</text>
+<rect x="9.00" y="44.00" width="83.95" height="26.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="13.00" y="51.00" font-family="Inter" font-size="3.20" font-weight="600" fill="#292827" text-anchor="start">What is it?</text>
+<text x="13.00" y="55.82" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">An operating system, like Windows or macOS. Its</text>
+<text x="13.00" y="59.73" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">heart is the kernel: the part that talks to the</text>
+<text x="13.00" y="63.65" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">hardware.</text>
+<rect x="9.00" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="12.00" y="83.00" font-family="Inter" font-size="5.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">1991</text>
+<text x="12.00" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Linus Torvalds</text>
+<text x="12.00" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">starts it as a hobby</text>
+<rect x="37.98" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="40.98" y="83.00" font-family="Inter" font-size="5.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">Free</text>
+<text x="40.98" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Open source</text>
+<text x="40.98" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">the code is public</text>
+<rect x="66.97" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="69.97" y="83.00" font-family="Inter" font-size="4.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">500/500</text>
+<text x="69.97" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Supercomputers</text>
+<text x="69.97" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">all run Linux</text>
+<rect x="0.00" y="104.00" width="101.95" height="29.70" rx="0" fill="#421d24" stroke="none" stroke-width="0"/>
+<text x="9.00" y="112.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">It's everywhere</text>
+<text x="9.00" y="116.66" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">Internet servers, Android phones, smart TVs, cars,</text>
+<text x="9.00" y="120.30" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">routers, the Steam Deck and even a NASA helicopter on</text>
+<text x="9.00" y="123.95" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">Mars.</text>
+<text x="9.00" y="128.70" font-family="Inter" font-size="2.30" font-weight="600" fill="#ffffff" text-anchor="start">Free · Secure · Customizable · Big community</text></g>
+<g transform="translate(107.95,139.70)"><rect x="0.00" y="0.00" width="101.95" height="133.70" rx="0" fill="#f2f0eb" stroke="none" stroke-width="0"/>
+<text x="9.00" y="13.00" font-family="Inter" font-size="2.60" font-weight="600" fill="#666666" text-anchor="start">English presentation</text>
+<text x="8.40" y="30.00" font-family="Inter" font-size="17.00" font-weight="500" fill="#292827" text-anchor="start" letter-spacing="-0.45">Linux</text>
+<text x="9.00" y="38.00" font-family="Inter" font-size="4.00" font-weight="400" fill="#292827" text-anchor="start" letter-spacing="-0.05">The free system that runs the world.</text>
+<rect x="9.00" y="44.00" width="83.95" height="26.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="13.00" y="51.00" font-family="Inter" font-size="3.20" font-weight="600" fill="#292827" text-anchor="start">What is it?</text>
+<text x="13.00" y="55.82" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">An operating system, like Windows or macOS. Its</text>
+<text x="13.00" y="59.73" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">heart is the kernel: the part that talks to the</text>
+<text x="13.00" y="63.65" font-family="Inter" font-size="2.90" font-weight="400" fill="#292827" text-anchor="start">hardware.</text>
+<rect x="9.00" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="12.00" y="83.00" font-family="Inter" font-size="5.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">1991</text>
+<text x="12.00" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Linus Torvalds</text>
+<text x="12.00" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">starts it as a hobby</text>
+<rect x="37.98" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="40.98" y="83.00" font-family="Inter" font-size="5.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">Free</text>
+<text x="40.98" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Open source</text>
+<text x="40.98" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">the code is public</text>
+<rect x="66.97" y="74.00" width="25.98" height="24.00" rx="4" fill="#ffffff" stroke="none" stroke-width="0"/>
+<text x="69.97" y="83.00" font-family="Inter" font-size="4.60" font-weight="500" fill="#421d24" text-anchor="start" letter-spacing="-0.15">500/500</text>
+<text x="69.97" y="89.50" font-family="Inter" font-size="2.30" font-weight="600" fill="#292827" text-anchor="start">Supercomputers</text>
+<text x="69.97" y="93.30" font-family="Inter" font-size="2.30" font-weight="400" fill="#666666" text-anchor="start">all run Linux</text>
+<rect x="0.00" y="104.00" width="101.95" height="29.70" rx="0" fill="#421d24" stroke="none" stroke-width="0"/>
+<text x="9.00" y="112.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">It's everywhere</text>
+<text x="9.00" y="116.66" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">Internet servers, Android phones, smart TVs, cars,</text>
+<text x="9.00" y="120.30" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">routers, the Steam Deck and even a NASA helicopter on</text>
+<text x="9.00" y="123.95" font-family="Inter" font-size="2.70" font-weight="400" fill="#c6bbbd" text-anchor="start">Mars.</text>
+<text x="9.00" y="128.70" font-family="Inter" font-size="2.30" font-weight="600" fill="#ffffff" text-anchor="start">Free · Secure · Customizable · Big community</text></g>
+<line x1="6.00" y1="1.20" x2="6.00" y2="5.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="6.00" y1="274.20" x2="6.00" y2="278.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="107.95" y1="1.20" x2="107.95" y2="5.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="107.95" y1="274.20" x2="107.95" y2="278.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="209.90" y1="1.20" x2="209.90" y2="5.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="209.90" y1="274.20" x2="209.90" y2="278.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="1.20" y1="6.00" x2="5.20" y2="6.00" stroke="#292827" stroke-width="0.2"/>
+<line x1="210.70" y1="6.00" x2="214.70" y2="6.00" stroke="#292827" stroke-width="0.2"/>
+<line x1="1.20" y1="139.70" x2="5.20" y2="139.70" stroke="#292827" stroke-width="0.2"/>
+<line x1="210.70" y1="139.70" x2="214.70" y2="139.70" stroke="#292827" stroke-width="0.2"/>
+<line x1="1.20" y1="273.40" x2="5.20" y2="273.40" stroke="#292827" stroke-width="0.2"/>
+<line x1="210.70" y1="273.40" x2="214.70" y2="273.40" stroke="#292827" stroke-width="0.2"/>
 </svg>

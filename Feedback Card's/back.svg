@@ -1,192 +1,201 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215.9mm" height="279.4mm" viewBox="0 0 215.9 279.4">
 <rect width="215.9" height="279.4" fill="#fff"/>
-<g transform="translate(107.95,12.70)"><text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="600" fill="#1d1d1f" text-anchor="start">Thanks for listening!</text>
-<text x="5.00" y="14.46" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">Linux has hundreds of versions called distros. Answer a</text>
-<text x="5.00" y="17.77" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">short quiz and discover the one that matches your</text>
-<text x="5.00" y="21.08" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">personality.</text>
-<circle cx="7.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">1</text>
-<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Scan the QR</text>
-<circle cx="30.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">2</text>
-<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Answer 8 questions</text>
-<circle cx="59.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">3</text>
-<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Meet your distro</text>
-<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#d2d2d7" stroke-width="0.2"/>
-<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#1d1d1f" text-anchor="start">Fun fact</text>
-<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="300" fill="#333333" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
-<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="400" fill="#1d1d1f" text-anchor="start">Tell me your result after the class!</text>
-<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="300" fill="#707070" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
-<g transform="translate(19.05,12.70)"><text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="600" fill="#1d1d1f" text-anchor="start">Thanks for listening!</text>
-<text x="5.00" y="14.46" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">Linux has hundreds of versions called distros. Answer a</text>
-<text x="5.00" y="17.77" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">short quiz and discover the one that matches your</text>
-<text x="5.00" y="21.08" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">personality.</text>
-<circle cx="7.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">1</text>
-<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Scan the QR</text>
-<circle cx="30.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">2</text>
-<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Answer 8 questions</text>
-<circle cx="59.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">3</text>
-<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Meet your distro</text>
-<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#d2d2d7" stroke-width="0.2"/>
-<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#1d1d1f" text-anchor="start">Fun fact</text>
-<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="300" fill="#333333" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
-<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="400" fill="#1d1d1f" text-anchor="start">Tell me your result after the class!</text>
-<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="300" fill="#707070" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
-<g transform="translate(107.95,63.50)"><text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="600" fill="#1d1d1f" text-anchor="start">Thanks for listening!</text>
-<text x="5.00" y="14.46" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">Linux has hundreds of versions called distros. Answer a</text>
-<text x="5.00" y="17.77" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">short quiz and discover the one that matches your</text>
-<text x="5.00" y="21.08" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">personality.</text>
-<circle cx="7.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">1</text>
-<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Scan the QR</text>
-<circle cx="30.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">2</text>
-<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Answer 8 questions</text>
-<circle cx="59.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">3</text>
-<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Meet your distro</text>
-<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#d2d2d7" stroke-width="0.2"/>
-<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#1d1d1f" text-anchor="start">Fun fact</text>
-<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="300" fill="#333333" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
-<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="400" fill="#1d1d1f" text-anchor="start">Tell me your result after the class!</text>
-<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="300" fill="#707070" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
-<g transform="translate(19.05,63.50)"><text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="600" fill="#1d1d1f" text-anchor="start">Thanks for listening!</text>
-<text x="5.00" y="14.46" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">Linux has hundreds of versions called distros. Answer a</text>
-<text x="5.00" y="17.77" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">short quiz and discover the one that matches your</text>
-<text x="5.00" y="21.08" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">personality.</text>
-<circle cx="7.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">1</text>
-<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Scan the QR</text>
-<circle cx="30.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">2</text>
-<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Answer 8 questions</text>
-<circle cx="59.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">3</text>
-<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Meet your distro</text>
-<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#d2d2d7" stroke-width="0.2"/>
-<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#1d1d1f" text-anchor="start">Fun fact</text>
-<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="300" fill="#333333" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
-<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="400" fill="#1d1d1f" text-anchor="start">Tell me your result after the class!</text>
-<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="300" fill="#707070" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
-<g transform="translate(107.95,114.30)"><text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="600" fill="#1d1d1f" text-anchor="start">Thanks for listening!</text>
-<text x="5.00" y="14.46" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">Linux has hundreds of versions called distros. Answer a</text>
-<text x="5.00" y="17.77" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">short quiz and discover the one that matches your</text>
-<text x="5.00" y="21.08" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">personality.</text>
-<circle cx="7.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">1</text>
-<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Scan the QR</text>
-<circle cx="30.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">2</text>
-<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Answer 8 questions</text>
-<circle cx="59.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">3</text>
-<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Meet your distro</text>
-<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#d2d2d7" stroke-width="0.2"/>
-<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#1d1d1f" text-anchor="start">Fun fact</text>
-<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="300" fill="#333333" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
-<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="400" fill="#1d1d1f" text-anchor="start">Tell me your result after the class!</text>
-<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="300" fill="#707070" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
-<g transform="translate(19.05,114.30)"><text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="600" fill="#1d1d1f" text-anchor="start">Thanks for listening!</text>
-<text x="5.00" y="14.46" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">Linux has hundreds of versions called distros. Answer a</text>
-<text x="5.00" y="17.77" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">short quiz and discover the one that matches your</text>
-<text x="5.00" y="21.08" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">personality.</text>
-<circle cx="7.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">1</text>
-<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Scan the QR</text>
-<circle cx="30.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">2</text>
-<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Answer 8 questions</text>
-<circle cx="59.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">3</text>
-<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Meet your distro</text>
-<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#d2d2d7" stroke-width="0.2"/>
-<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#1d1d1f" text-anchor="start">Fun fact</text>
-<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="300" fill="#333333" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
-<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="400" fill="#1d1d1f" text-anchor="start">Tell me your result after the class!</text>
-<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="300" fill="#707070" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
-<g transform="translate(107.95,165.10)"><text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="600" fill="#1d1d1f" text-anchor="start">Thanks for listening!</text>
-<text x="5.00" y="14.46" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">Linux has hundreds of versions called distros. Answer a</text>
-<text x="5.00" y="17.77" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">short quiz and discover the one that matches your</text>
-<text x="5.00" y="21.08" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">personality.</text>
-<circle cx="7.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">1</text>
-<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Scan the QR</text>
-<circle cx="30.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">2</text>
-<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Answer 8 questions</text>
-<circle cx="59.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">3</text>
-<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Meet your distro</text>
-<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#d2d2d7" stroke-width="0.2"/>
-<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#1d1d1f" text-anchor="start">Fun fact</text>
-<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="300" fill="#333333" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
-<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="400" fill="#1d1d1f" text-anchor="start">Tell me your result after the class!</text>
-<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="300" fill="#707070" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
-<g transform="translate(19.05,165.10)"><text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="600" fill="#1d1d1f" text-anchor="start">Thanks for listening!</text>
-<text x="5.00" y="14.46" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">Linux has hundreds of versions called distros. Answer a</text>
-<text x="5.00" y="17.77" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">short quiz and discover the one that matches your</text>
-<text x="5.00" y="21.08" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">personality.</text>
-<circle cx="7.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">1</text>
-<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Scan the QR</text>
-<circle cx="30.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">2</text>
-<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Answer 8 questions</text>
-<circle cx="59.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">3</text>
-<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Meet your distro</text>
-<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#d2d2d7" stroke-width="0.2"/>
-<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#1d1d1f" text-anchor="start">Fun fact</text>
-<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="300" fill="#333333" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
-<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="400" fill="#1d1d1f" text-anchor="start">Tell me your result after the class!</text>
-<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="300" fill="#707070" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
-<g transform="translate(107.95,215.90)"><text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="600" fill="#1d1d1f" text-anchor="start">Thanks for listening!</text>
-<text x="5.00" y="14.46" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">Linux has hundreds of versions called distros. Answer a</text>
-<text x="5.00" y="17.77" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">short quiz and discover the one that matches your</text>
-<text x="5.00" y="21.08" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">personality.</text>
-<circle cx="7.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">1</text>
-<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Scan the QR</text>
-<circle cx="30.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">2</text>
-<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Answer 8 questions</text>
-<circle cx="59.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">3</text>
-<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Meet your distro</text>
-<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#d2d2d7" stroke-width="0.2"/>
-<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#1d1d1f" text-anchor="start">Fun fact</text>
-<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="300" fill="#333333" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
-<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="400" fill="#1d1d1f" text-anchor="start">Tell me your result after the class!</text>
-<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="300" fill="#707070" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
-<g transform="translate(19.05,215.90)"><text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="600" fill="#1d1d1f" text-anchor="start">Thanks for listening!</text>
-<text x="5.00" y="14.46" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">Linux has hundreds of versions called distros. Answer a</text>
-<text x="5.00" y="17.77" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">short quiz and discover the one that matches your</text>
-<text x="5.00" y="21.08" font-family="Inter" font-size="2.45" font-weight="400" fill="#333333" text-anchor="start">personality.</text>
-<circle cx="7.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">1</text>
-<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Scan the QR</text>
-<circle cx="30.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">2</text>
-<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Answer 8 questions</text>
-<circle cx="59.20" cy="27.10" r="2.20" fill="none" stroke="#1d1d1f" stroke-width="0.25"/>
-<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#1d1d1f" text-anchor="middle">3</text>
-<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#333333" text-anchor="start">Meet your distro</text>
-<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#d2d2d7" stroke-width="0.2"/>
-<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#1d1d1f" text-anchor="start">Fun fact</text>
-<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="300" fill="#333333" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
-<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="400" fill="#1d1d1f" text-anchor="start">Tell me your result after the class!</text>
-<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="300" fill="#707070" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
-<line x1="19.05" y1="0.00" x2="19.05" y2="279.40" stroke="#d2d2d7" stroke-width="0.15"/>
-<line x1="107.95" y1="0.00" x2="107.95" y2="279.40" stroke="#d2d2d7" stroke-width="0.15"/>
-<line x1="196.85" y1="0.00" x2="196.85" y2="279.40" stroke="#d2d2d7" stroke-width="0.15"/>
-<line x1="0.00" y1="12.70" x2="215.90" y2="12.70" stroke="#d2d2d7" stroke-width="0.15"/>
-<line x1="0.00" y1="63.50" x2="215.90" y2="63.50" stroke="#d2d2d7" stroke-width="0.15"/>
-<line x1="0.00" y1="114.30" x2="215.90" y2="114.30" stroke="#d2d2d7" stroke-width="0.15"/>
-<line x1="0.00" y1="165.10" x2="215.90" y2="165.10" stroke="#d2d2d7" stroke-width="0.15"/>
-<line x1="0.00" y1="215.90" x2="215.90" y2="215.90" stroke="#d2d2d7" stroke-width="0.15"/>
-<line x1="0.00" y1="266.70" x2="215.90" y2="266.70" stroke="#d2d2d7" stroke-width="0.15"/>
+<g transform="translate(107.95,12.70)"><rect x="0.00" y="0.00" width="88.90" height="50.80" rx="0" fill="#0c4243" stroke="none" stroke-width="0"/>
+<text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">Thanks for listening!</text>
+<text x="5.00" y="14.42" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">Linux has hundreds of versions called distros. Answer a short</text>
+<text x="5.00" y="17.66" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">quiz and discover the one that matches your personality.</text>
+<circle cx="7.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">1</text>
+<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Scan the QR</text>
+<circle cx="30.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">2</text>
+<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Answer 8 questions</text>
+<circle cx="59.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">3</text>
+<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Meet your distro</text>
+<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#3d6869" stroke-width="0.25"/>
+<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#d4c7ff" text-anchor="start">Fun fact</text>
+<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#ced9d9" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
+<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="500" fill="#ffffff" text-anchor="start">Tell me your result after the class!</text>
+<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="400" fill="#9eb3b4" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
+<g transform="translate(19.05,12.70)"><rect x="0.00" y="0.00" width="88.90" height="50.80" rx="0" fill="#0c4243" stroke="none" stroke-width="0"/>
+<text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">Thanks for listening!</text>
+<text x="5.00" y="14.42" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">Linux has hundreds of versions called distros. Answer a short</text>
+<text x="5.00" y="17.66" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">quiz and discover the one that matches your personality.</text>
+<circle cx="7.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">1</text>
+<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Scan the QR</text>
+<circle cx="30.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">2</text>
+<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Answer 8 questions</text>
+<circle cx="59.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">3</text>
+<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Meet your distro</text>
+<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#3d6869" stroke-width="0.25"/>
+<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#d4c7ff" text-anchor="start">Fun fact</text>
+<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#ced9d9" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
+<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="500" fill="#ffffff" text-anchor="start">Tell me your result after the class!</text>
+<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="400" fill="#9eb3b4" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
+<g transform="translate(107.95,63.50)"><rect x="0.00" y="0.00" width="88.90" height="50.80" rx="0" fill="#0c4243" stroke="none" stroke-width="0"/>
+<text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">Thanks for listening!</text>
+<text x="5.00" y="14.42" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">Linux has hundreds of versions called distros. Answer a short</text>
+<text x="5.00" y="17.66" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">quiz and discover the one that matches your personality.</text>
+<circle cx="7.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">1</text>
+<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Scan the QR</text>
+<circle cx="30.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">2</text>
+<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Answer 8 questions</text>
+<circle cx="59.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">3</text>
+<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Meet your distro</text>
+<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#3d6869" stroke-width="0.25"/>
+<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#d4c7ff" text-anchor="start">Fun fact</text>
+<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#ced9d9" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
+<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="500" fill="#ffffff" text-anchor="start">Tell me your result after the class!</text>
+<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="400" fill="#9eb3b4" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
+<g transform="translate(19.05,63.50)"><rect x="0.00" y="0.00" width="88.90" height="50.80" rx="0" fill="#0c4243" stroke="none" stroke-width="0"/>
+<text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">Thanks for listening!</text>
+<text x="5.00" y="14.42" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">Linux has hundreds of versions called distros. Answer a short</text>
+<text x="5.00" y="17.66" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">quiz and discover the one that matches your personality.</text>
+<circle cx="7.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">1</text>
+<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Scan the QR</text>
+<circle cx="30.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">2</text>
+<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Answer 8 questions</text>
+<circle cx="59.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">3</text>
+<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Meet your distro</text>
+<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#3d6869" stroke-width="0.25"/>
+<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#d4c7ff" text-anchor="start">Fun fact</text>
+<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#ced9d9" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
+<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="500" fill="#ffffff" text-anchor="start">Tell me your result after the class!</text>
+<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="400" fill="#9eb3b4" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
+<g transform="translate(107.95,114.30)"><rect x="0.00" y="0.00" width="88.90" height="50.80" rx="0" fill="#0c4243" stroke="none" stroke-width="0"/>
+<text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">Thanks for listening!</text>
+<text x="5.00" y="14.42" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">Linux has hundreds of versions called distros. Answer a short</text>
+<text x="5.00" y="17.66" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">quiz and discover the one that matches your personality.</text>
+<circle cx="7.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">1</text>
+<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Scan the QR</text>
+<circle cx="30.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">2</text>
+<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Answer 8 questions</text>
+<circle cx="59.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">3</text>
+<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Meet your distro</text>
+<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#3d6869" stroke-width="0.25"/>
+<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#d4c7ff" text-anchor="start">Fun fact</text>
+<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#ced9d9" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
+<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="500" fill="#ffffff" text-anchor="start">Tell me your result after the class!</text>
+<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="400" fill="#9eb3b4" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
+<g transform="translate(19.05,114.30)"><rect x="0.00" y="0.00" width="88.90" height="50.80" rx="0" fill="#0c4243" stroke="none" stroke-width="0"/>
+<text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">Thanks for listening!</text>
+<text x="5.00" y="14.42" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">Linux has hundreds of versions called distros. Answer a short</text>
+<text x="5.00" y="17.66" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">quiz and discover the one that matches your personality.</text>
+<circle cx="7.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">1</text>
+<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Scan the QR</text>
+<circle cx="30.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">2</text>
+<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Answer 8 questions</text>
+<circle cx="59.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">3</text>
+<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Meet your distro</text>
+<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#3d6869" stroke-width="0.25"/>
+<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#d4c7ff" text-anchor="start">Fun fact</text>
+<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#ced9d9" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
+<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="500" fill="#ffffff" text-anchor="start">Tell me your result after the class!</text>
+<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="400" fill="#9eb3b4" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
+<g transform="translate(107.95,165.10)"><rect x="0.00" y="0.00" width="88.90" height="50.80" rx="0" fill="#0c4243" stroke="none" stroke-width="0"/>
+<text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">Thanks for listening!</text>
+<text x="5.00" y="14.42" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">Linux has hundreds of versions called distros. Answer a short</text>
+<text x="5.00" y="17.66" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">quiz and discover the one that matches your personality.</text>
+<circle cx="7.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">1</text>
+<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Scan the QR</text>
+<circle cx="30.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">2</text>
+<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Answer 8 questions</text>
+<circle cx="59.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">3</text>
+<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Meet your distro</text>
+<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#3d6869" stroke-width="0.25"/>
+<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#d4c7ff" text-anchor="start">Fun fact</text>
+<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#ced9d9" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
+<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="500" fill="#ffffff" text-anchor="start">Tell me your result after the class!</text>
+<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="400" fill="#9eb3b4" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
+<g transform="translate(19.05,165.10)"><rect x="0.00" y="0.00" width="88.90" height="50.80" rx="0" fill="#0c4243" stroke="none" stroke-width="0"/>
+<text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">Thanks for listening!</text>
+<text x="5.00" y="14.42" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">Linux has hundreds of versions called distros. Answer a short</text>
+<text x="5.00" y="17.66" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">quiz and discover the one that matches your personality.</text>
+<circle cx="7.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">1</text>
+<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Scan the QR</text>
+<circle cx="30.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">2</text>
+<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Answer 8 questions</text>
+<circle cx="59.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">3</text>
+<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Meet your distro</text>
+<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#3d6869" stroke-width="0.25"/>
+<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#d4c7ff" text-anchor="start">Fun fact</text>
+<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#ced9d9" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
+<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="500" fill="#ffffff" text-anchor="start">Tell me your result after the class!</text>
+<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="400" fill="#9eb3b4" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
+<g transform="translate(107.95,215.90)"><rect x="0.00" y="0.00" width="88.90" height="50.80" rx="0" fill="#0c4243" stroke="none" stroke-width="0"/>
+<text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">Thanks for listening!</text>
+<text x="5.00" y="14.42" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">Linux has hundreds of versions called distros. Answer a short</text>
+<text x="5.00" y="17.66" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">quiz and discover the one that matches your personality.</text>
+<circle cx="7.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">1</text>
+<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Scan the QR</text>
+<circle cx="30.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">2</text>
+<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Answer 8 questions</text>
+<circle cx="59.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">3</text>
+<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Meet your distro</text>
+<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#3d6869" stroke-width="0.25"/>
+<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#d4c7ff" text-anchor="start">Fun fact</text>
+<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#ced9d9" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
+<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="500" fill="#ffffff" text-anchor="start">Tell me your result after the class!</text>
+<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="400" fill="#9eb3b4" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
+<g transform="translate(19.05,215.90)"><rect x="0.00" y="0.00" width="88.90" height="50.80" rx="0" fill="#0c4243" stroke="none" stroke-width="0"/>
+<text x="5.00" y="10.00" font-family="Inter" font-size="3.80" font-weight="500" fill="#ffffff" text-anchor="start">Thanks for listening!</text>
+<text x="5.00" y="14.42" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">Linux has hundreds of versions called distros. Answer a short</text>
+<text x="5.00" y="17.66" font-family="Inter" font-size="2.40" font-weight="400" fill="#ced9d9" text-anchor="start">quiz and discover the one that matches your personality.</text>
+<circle cx="7.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="7.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">1</text>
+<text x="10.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Scan the QR</text>
+<circle cx="30.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="30.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">2</text>
+<text x="33.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Answer 8 questions</text>
+<circle cx="59.20" cy="27.10" r="2.20" fill="#d4c7ff" stroke="none" stroke-width="0"/>
+<text x="59.20" y="28.00" font-family="Inter" font-size="2.20" font-weight="600" fill="#292827" text-anchor="middle">3</text>
+<text x="62.50" y="28.00" font-family="Inter" font-size="2.20" font-weight="500" fill="#ffffff" text-anchor="start">Meet your distro</text>
+<line x1="5.00" y1="32.00" x2="83.90" y2="32.00" stroke="#3d6869" stroke-width="0.25"/>
+<text x="5.00" y="38.00" font-family="Inter" font-size="2.40" font-weight="600" fill="#d4c7ff" text-anchor="start">Fun fact</text>
+<text x="17.00" y="38.00" font-family="Inter" font-size="2.20" font-weight="400" fill="#ced9d9" text-anchor="start">Android, on billions of phones, uses the Linux kernel.</text>
+<text x="5.00" y="45.00" font-family="Inter" font-size="2.40" font-weight="500" fill="#ffffff" text-anchor="start">Tell me your result after the class!</text>
+<text x="83.90" y="45.00" font-family="Inter" font-size="1.90" font-weight="400" fill="#9eb3b4" text-anchor="end">xsteban1410.github.io/ExpoEnglish</text></g>
+<line x1="19.05" y1="7.20" x2="19.05" y2="11.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="19.05" y1="268.20" x2="19.05" y2="272.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="107.95" y1="7.20" x2="107.95" y2="11.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="107.95" y1="268.20" x2="107.95" y2="272.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="196.85" y1="7.20" x2="196.85" y2="11.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="196.85" y1="268.20" x2="196.85" y2="272.20" stroke="#292827" stroke-width="0.2"/>
+<line x1="13.55" y1="12.70" x2="17.55" y2="12.70" stroke="#292827" stroke-width="0.2"/>
+<line x1="198.35" y1="12.70" x2="202.35" y2="12.70" stroke="#292827" stroke-width="0.2"/>
+<line x1="13.55" y1="63.50" x2="17.55" y2="63.50" stroke="#292827" stroke-width="0.2"/>
+<line x1="198.35" y1="63.50" x2="202.35" y2="63.50" stroke="#292827" stroke-width="0.2"/>
+<line x1="13.55" y1="114.30" x2="17.55" y2="114.30" stroke="#292827" stroke-width="0.2"/>
+<line x1="198.35" y1="114.30" x2="202.35" y2="114.30" stroke="#292827" stroke-width="0.2"/>
+<line x1="13.55" y1="165.10" x2="17.55" y2="165.10" stroke="#292827" stroke-width="0.2"/>
+<line x1="198.35" y1="165.10" x2="202.35" y2="165.10" stroke="#292827" stroke-width="0.2"/>
+<line x1="13.55" y1="215.90" x2="17.55" y2="215.90" stroke="#292827" stroke-width="0.2"/>
+<line x1="198.35" y1="215.90" x2="202.35" y2="215.90" stroke="#292827" stroke-width="0.2"/>
+<line x1="13.55" y1="266.70" x2="17.55" y2="266.70" stroke="#292827" stroke-width="0.2"/>
+<line x1="198.35" y1="266.70" x2="202.35" y2="266.70" stroke="#292827" stroke-width="0.2"/>
 </svg>

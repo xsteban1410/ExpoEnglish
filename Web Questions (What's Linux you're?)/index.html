@@ -5,25 +5,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>What Linux are you?</title>
   <meta name="description" content="Answer 8 quick questions and find the Linux distro that matches your personality.">
+  <meta name="theme-color" content="#f2f0eb">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐧</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..700&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="nav"><span>English Presentation · Linux</span></header>
+  <header class="nav">
+    <span class="brand">🐧 Linux</span>
+    <span class="nav-note">English Presentation</span>
+  </header>
 
   <main>
-    <section id="intro" class="screen hero">
-      <p class="eyebrow">Quiz</p>
-      <h1>What Linux are you?</h1>
-      <p class="tagline">8 quick questions. One distro that is just like you.</p>
+    <section id="intro" class="screen">
+      <p class="eyebrow">Quiz · 8 questions · 2 minutes</p>
+      <h1>What Linux<br>are you?</h1>
+      <p class="tagline">Answer eight quick questions and meet the distro that is just like you.</p>
       <div class="actions">
-        <button class="pill filled" id="start">Start the quiz</button>
-        <a class="pill outlined" href="#about">What is a distro?</a>
+        <button class="btn primary" id="start">Start the quiz <span aria-hidden="true">→</span></button>
+        <a class="btn secondary" href="#about">What is a distro?</a>
       </div>
-      <div id="about" class="about">
-        <p><strong>Linux</strong> is a free, open source operating system, like Windows or macOS.
-          A <strong>distro</strong> is a version of Linux: the same kernel with different programs and designs.
-          There are hundreds of them. Which one are you?</p>
+
+      <div id="about" class="band">
+        <div class="band-inner">
+          <h2>Same kernel, many flavours.</h2>
+          <p><strong>Linux</strong> is a free, open source operating system, like Windows or macOS.
+            A <strong>distro</strong> is a version of Linux: the same kernel with different programs and designs.
+            There are hundreds of them. Which one are you?</p>
+        </div>
       </div>
     </section>
 
@@ -35,23 +46,27 @@
       <button class="link" id="back">← Back</button>
     </section>
 
-    <section id="result" class="screen hero" hidden aria-live="polite">
+    <section id="result" class="screen" hidden aria-live="polite">
       <p class="eyebrow">You are…</p>
       <h1 id="r-name"></h1>
       <p class="tag" id="r-family"></p>
       <p class="tagline" id="r-tagline"></p>
-      <p class="desc" id="r-desc"></p>
+      <div class="card">
+        <p class="desc" id="r-desc"></p>
+        <a class="link" id="r-link" target="_blank" rel="noopener">Visit the website →</a>
+      </div>
+      <h3 class="matches-title">Your top 3</h3>
       <ul class="matches" id="r-matches"></ul>
       <div class="actions">
-        <button class="pill filled" id="again">Try again</button>
-        <a class="pill outlined" id="r-link" target="_blank" rel="noopener">Visit the website</a>
+        <button class="btn primary" id="again">Try again</button>
+        <button class="btn secondary" id="share">Share my result</button>
       </div>
-      <button class="link" id="share">Share my result</button>
     </section>
   </main>
 
   <footer class="foot">
-    Made for an English class presentation about Linux · Free and open source, like Linux 🐧
+    <p>Made for an English class presentation about Linux.</p>
+    <p class="muted">Free and open source, like Linux 🐧</p>
   </footer>
   <script src="quiz.js"></script>
 </body>

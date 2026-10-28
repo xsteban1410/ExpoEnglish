@@ -96,3 +96,14 @@ def qr_group(data, x, y, size, fill="#000"):
     parts = [f'<rect x="{x + c * m:.3f}" y="{y + r * m:.3f}" width="{m + 0.02:.3f}" height="{m + 0.02:.3f}" fill="{fill}"/>'
              for r, row in enumerate(rows) for c, ch in enumerate(row) if ch == "#"]
     return "".join(parts)
+
+
+def crop_marks(page, xs, ys, stroke="#292827", gap=1.5, length=4):
+    """Marcas de corte en el margen de la hoja para cada x (verticales) e y (horizontales)."""
+    x0, x1, y0, y1 = min(xs), max(xs), min(ys), max(ys)
+    for x in xs:
+        page.line(x, y0 - gap - length, x, y0 - gap, stroke, 0.2)
+        page.line(x, y1 + gap, x, y1 + gap + length, stroke, 0.2)
+    for y in ys:
+        page.line(x0 - gap - length, y, x0 - gap, y, stroke, 0.2)
+        page.line(x1 + gap, y, x1 + gap + length, y, stroke, 0.2)
