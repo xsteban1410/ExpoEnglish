@@ -1,0 +1,5 @@
+Cómo imprimir (Illustrator o PDF):
+- Papel: Carta (Letter, 8.5 x 11 in). Escala: 100 % / tamaño real (NO "ajustar a página").
+- Doble cara: voltear por el borde LARGO. Mesa de trabajo 1 = frente, 2 = reverso.
+- El texto ya está en curvas: no hace falta instalar fuentes.
+- Cortar por las líneas grises. Hacer una hoja de prueba antes del lote.
