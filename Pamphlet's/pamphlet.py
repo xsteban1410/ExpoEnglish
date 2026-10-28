@@ -1,18 +1,17 @@
 """Panfleto: hoja carta, doble cara, 4 panfletos iguales por hoja (4.25 × 5.5 in cada uno).
 Estilo DESIGN.md (Apple) adaptado a papel: fondo blanco, tinta #1d1d1f, hairlines #d2d2d7,
-#0071e3 solo en la «píldora» de acción. 1 unidad = 1 mm. Genera front.svg y back.svg."""
+sin acento azul (la acción con QR va en las tarjetas). 1 unidad = 1 mm. Genera front.svg y back.svg."""
 import os
 import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "tools"))
-from svgkit import Svg, qr_group  # noqa: E402
+from svgkit import Svg  # noqa: E402
 
 PW, PH = 215.9, 279.4             # carta
 W, H = PW / 2, PH / 2             # cada panfleto
 M = 9                             # margen interior
-INK, GRAPH, ASH, LINE, FROST, BLUE, SIGNAL = "#1d1d1f", "#333333", "#707070", "#d2d2d7", "#f5f5f7", "#0071e3", "#2997ff"
+INK, GRAPH, ASH, LINE, FROST = "#1d1d1f", "#333333", "#707070", "#d2d2d7", "#f5f5f7"
 MONO = "DejaVu Sans Mono"
-QUIZ_URL = "https://xsteban1410.github.io/ExpoEnglish/"
 
 
 def front(s):
@@ -62,16 +61,21 @@ def back(s):
         x, yy = M + (i % 2) * (W - 2 * M) / 2, y + 16 + (i // 2) * 5.2
         s.text(x, yy, c, 3.0, 700, INK, family=MONO)
         s.text(x + 13, yy, d, 2.9, 300, GRAPH)
-    # Bloque QR → encuesta
+    # Bloque «How does it work?»: las capas de Linux (el QR va solo en las tarjetas)
     by = H - 40
     s.rect(M - 2, by, W - 2 * M + 4, 33, LINE, FROST, 0.25, rx=2)
-    s.add(qr_group(QUIZ_URL, M + 2, by + 3.5, 26, INK))
-    tx = M + 33
-    s.text(tx, by + 10, "What Linux", 5.0, 600, INK, spacing=-0.1)
-    s.text(tx, by + 15.5, "are you?", 5.0, 600, INK, spacing=-0.1)
-    s.text(tx, by + 20.5, "Scan and take the quiz.", 2.7, 300, GRAPH)
-    s.rect(tx, by + 23, 26, 6.4, "none", BLUE, 0, rx=3.2)   # píldora (radio completo)
-    s.text(tx + 13, by + 27.3, "Scan me", 2.8, 400, "#f4f8fb", "middle")
+    layers = [("Applications", "browser, games"), ("Shell & system", "commands"),
+              ("Kernel", "the heart"), ("Hardware", "CPU, memory, disk")]
+    for i, (name, sub) in enumerate(layers):
+        ly = by + 3 + i * 6.9
+        s.rect(M + 2, ly, 40, 6, INK if name == "Kernel" else LINE, "#ffffff", 0.35, rx=1.5)
+        s.text(M + 4, ly + 4, name, 2.5, 600, INK)
+        s.text(M + 40, ly + 4, sub, 2.0, 300, ASH, "end")
+    tx = M + 47
+    s.text(tx, by + 9, "How does", 5.0, 600, INK, spacing=-0.1)
+    s.text(tx, by + 14.5, "it work?", 5.0, 600, INK, spacing=-0.1)
+    s.para(tx, by + 17, "Like a cake: layers. Your click goes down to the hardware, "
+                        "and the answer comes back up.", 2.6, W - M - tx, 1.35, fill=GRAPH)
 
 
 def sheet(draw, mirror):
