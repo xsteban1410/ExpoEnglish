@@ -31,43 +31,72 @@
 <line x1="0.00" y1="600.00" x2="1000.00" y2="600.00" stroke="#999" stroke-width="0.3" stroke-dasharray="4 4"/>
 <text x="2.00" y="598.00" font-family="Inter" font-size="6.00" font-weight="400" fill="#999" text-anchor="start">60</text>
 <rect x="1.00" y="1.00" width="998.00" height="698.00" rx="0" fill="none" stroke="#000" stroke-width="1"/>
-<text x="40.00" y="115.00" font-family="Inter" font-size="80.00" font-weight="700" fill="#000" text-anchor="start">DISTROS</text>
-<text x="42.00" y="160.00" font-family="Inter" font-size="28.00" font-weight="300" fill="#000" text-anchor="start">Distro = Linux kernel + programs + design + tools.</text>
-<text x="40.00" y="690.00" font-family="Inter" font-size="11.00" font-weight="300" fill="#777" text-anchor="start">Pliego 2/4 · 100 × 70 cm horizontal · cuadrícula = 10 cm · alto de letra: título ≈ 5,8 cm, encabezados ≈ 2,2 cm, texto ≈ 1,6 cm</text>
-<rect x="370.00" y="190.00" width="260.00" height="60.00" rx="6" fill="none" stroke="#000" stroke-width="1.5"/>
-<text x="500.00" y="230.00" font-family="Inter" font-size="26.00" font-weight="700" fill="#000" text-anchor="middle">LINUX KERNEL</text>
-<line x1="500.00" y1="250.00" x2="182.07" y2="310.65" stroke="#000" stroke-width="1.2"/>
-<polygon points="175.00,312.00 182.75,314.19 181.40,307.11" fill="#000"/>
-<rect x="35.00" y="315.00" width="280.00" height="210.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
-<text x="175.00" y="352.00" font-family="Inter" font-size="24.00" font-weight="700" fill="#000" text-anchor="middle">DEBIAN FAMILY</text>
-<line x1="55.00" y1="366.00" x2="295.00" y2="366.00" stroke="#000" stroke-width="0.5"/>
-<text x="175.00" y="404.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Debian</text>
-<text x="175.00" y="438.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Ubuntu</text>
-<text x="175.00" y="472.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Linux Mint</text>
-<text x="175.00" y="510.00" font-family="Inter" font-size="16.00" font-weight="300" fill="#000" text-anchor="middle">stable · great for beginners</text>
-<line x1="500.00" y1="250.00" x2="500.00" y2="304.80" stroke="#000" stroke-width="1.2"/>
-<polygon points="500.00,312.00 503.60,304.80 496.40,304.80" fill="#000"/>
-<rect x="360.00" y="315.00" width="280.00" height="210.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
-<text x="500.00" y="352.00" font-family="Inter" font-size="24.00" font-weight="700" fill="#000" text-anchor="middle">RED HAT FAMILY</text>
-<line x1="380.00" y1="366.00" x2="620.00" y2="366.00" stroke="#000" stroke-width="0.5"/>
-<text x="500.00" y="404.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Fedora</text>
-<text x="500.00" y="438.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Red Hat Enterprise</text>
-<text x="500.00" y="510.00" font-family="Inter" font-size="16.00" font-weight="300" fill="#000" text-anchor="middle">modern · used by companies</text>
-<line x1="500.00" y1="250.00" x2="817.93" y2="310.65" stroke="#000" stroke-width="1.2"/>
-<polygon points="825.00,312.00 818.60,307.11 817.25,314.19" fill="#000"/>
-<rect x="685.00" y="315.00" width="280.00" height="210.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
-<text x="825.00" y="352.00" font-family="Inter" font-size="24.00" font-weight="700" fill="#000" text-anchor="middle">ARCH FAMILY</text>
-<line x1="705.00" y1="366.00" x2="945.00" y2="366.00" stroke="#000" stroke-width="0.5"/>
-<text x="825.00" y="404.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Arch Linux</text>
-<text x="825.00" y="438.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">Manjaro</text>
-<text x="825.00" y="472.00" font-family="Inter" font-size="22.00" font-weight="400" fill="#000" text-anchor="middle">CachyOS</text>
-<text x="825.00" y="510.00" font-family="Inter" font-size="16.00" font-weight="300" fill="#000" text-anchor="middle">fast · always up to date</text>
-<rect x="40.00" y="550.00" width="440.00" height="115.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
-<text x="58.00" y="592.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">SPECIAL DISTROS</text>
-<text x="58.00" y="625.20" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">Kali Linux → security · SteamOS → video</text>
-<text x="58.00" y="649.90" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">games</text>
-<rect x="520.00" y="550.00" width="440.00" height="115.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
-<text x="538.00" y="592.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">LIKE ICE CREAM</text>
-<text x="538.00" y="625.20" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">Same base, many flavours. There are</text>
-<text x="538.00" y="649.90" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">hundreds of distros!</text>
+<text x="40.00" y="115.00" font-family="Inter" font-size="62.00" font-weight="700" fill="#000" text-anchor="start">DISTROS &amp; HOW IT WORKS</text>
+<text x="42.00" y="160.00" font-family="Inter" font-size="28.00" font-weight="300" fill="#000" text-anchor="start">Same kernel, many flavours. And Linux works in layers.</text>
+<text x="40.00" y="690.00" font-family="Inter" font-size="11.00" font-weight="300" fill="#777" text-anchor="start">Pliego 2/3 · 100 × 70 cm horizontal · cuadrícula = 10 cm · alto de letra: título ≈ 4,5 cm, encabezados ≈ 2,2 cm, texto ≈ 1,6 cm</text>
+<rect x="190.00" y="185.00" width="220.00" height="52.00" rx="6" fill="none" stroke="#000" stroke-width="1.5"/>
+<text x="300.00" y="220.00" font-family="Inter" font-size="24.00" font-weight="700" fill="#000" text-anchor="middle">LINUX KERNEL</text>
+<line x1="300.00" y1="237.00" x2="126.99" y2="280.25" stroke="#000" stroke-width="1.2"/>
+<polygon points="120.00,282.00 127.86,283.75 126.11,276.76" fill="#000"/>
+<rect x="40.00" y="285.00" width="160.00" height="205.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="120.00" y="318.00" font-family="Inter" font-size="22.00" font-weight="700" fill="#000" text-anchor="middle">DEBIAN</text>
+<text x="120.00" y="338.00" font-family="Inter" font-size="14.00" font-weight="300" fill="#000" text-anchor="middle">family</text>
+<line x1="55.00" y1="350.00" x2="185.00" y2="350.00" stroke="#000" stroke-width="0.5"/>
+<text x="120.00" y="384.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">Debian</text>
+<text x="120.00" y="414.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">Ubuntu</text>
+<text x="120.00" y="444.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">Linux Mint</text>
+<text x="120.00" y="478.00" font-family="Inter" font-size="14.00" font-weight="300" fill="#000" text-anchor="middle">for beginners</text>
+<line x1="300.00" y1="237.00" x2="300.00" y2="274.80" stroke="#000" stroke-width="1.2"/>
+<polygon points="300.00,282.00 303.60,274.80 296.40,274.80" fill="#000"/>
+<rect x="220.00" y="285.00" width="160.00" height="205.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="300.00" y="318.00" font-family="Inter" font-size="22.00" font-weight="700" fill="#000" text-anchor="middle">RED HAT</text>
+<text x="300.00" y="338.00" font-family="Inter" font-size="14.00" font-weight="300" fill="#000" text-anchor="middle">family</text>
+<line x1="235.00" y1="350.00" x2="365.00" y2="350.00" stroke="#000" stroke-width="0.5"/>
+<text x="300.00" y="384.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">Fedora</text>
+<text x="300.00" y="414.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">Red Hat (RHEL)</text>
+<text x="300.00" y="478.00" font-family="Inter" font-size="14.00" font-weight="300" fill="#000" text-anchor="middle">for companies</text>
+<line x1="300.00" y1="237.00" x2="473.01" y2="280.25" stroke="#000" stroke-width="1.2"/>
+<polygon points="480.00,282.00 473.89,276.76 472.14,283.75" fill="#000"/>
+<rect x="400.00" y="285.00" width="160.00" height="205.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="480.00" y="318.00" font-family="Inter" font-size="22.00" font-weight="700" fill="#000" text-anchor="middle">ARCH</text>
+<text x="480.00" y="338.00" font-family="Inter" font-size="14.00" font-weight="300" fill="#000" text-anchor="middle">family</text>
+<line x1="415.00" y1="350.00" x2="545.00" y2="350.00" stroke="#000" stroke-width="0.5"/>
+<text x="480.00" y="384.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">Arch Linux</text>
+<text x="480.00" y="414.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">Manjaro</text>
+<text x="480.00" y="444.00" font-family="Inter" font-size="18.00" font-weight="400" fill="#000" text-anchor="middle">CachyOS</text>
+<text x="480.00" y="478.00" font-family="Inter" font-size="14.00" font-weight="300" fill="#000" text-anchor="middle">fast &amp; up to date</text>
+<rect x="40.00" y="515.00" width="520.00" height="150.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="58.00" y="557.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">SPECIAL DISTROS</text>
+<text x="58.00" y="590.20" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">Kali Linux → security · SteamOS → games</text>
+<text x="58.00" y="614.90" font-family="Inter" font-size="19.00" font-weight="400" fill="#000" text-anchor="start">Like ice cream: same base, many flavours!</text>
+<text x="600.00" y="212.00" font-family="Inter" font-size="30.00" font-weight="700" fill="#000" text-anchor="start">HOW IT WORKS</text>
+<rect x="645.00" y="232.00" width="315.00" height="48.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="660.00" y="263.00" font-family="Inter" font-size="20.00" font-weight="700" fill="#000" text-anchor="start">APPLICATIONS</text>
+<text x="945.00" y="263.00" font-family="Inter" font-size="14.00" font-weight="300" fill="#000" text-anchor="end">browser · games</text>
+<rect x="645.00" y="288.00" width="315.00" height="48.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="660.00" y="319.00" font-family="Inter" font-size="20.00" font-weight="700" fill="#000" text-anchor="start">SHELL &amp; SYSTEM</text>
+<text x="945.00" y="319.00" font-family="Inter" font-size="14.00" font-weight="300" fill="#000" text-anchor="end">commands</text>
+<rect x="645.00" y="344.00" width="315.00" height="48.00" rx="6" fill="none" stroke="#000" stroke-width="2.5"/>
+<text x="660.00" y="375.00" font-family="Inter" font-size="20.00" font-weight="700" fill="#000" text-anchor="start">KERNEL</text>
+<text x="945.00" y="375.00" font-family="Inter" font-size="14.00" font-weight="300" fill="#000" text-anchor="end">the heart</text>
+<rect x="645.00" y="400.00" width="315.00" height="48.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="660.00" y="431.00" font-family="Inter" font-size="20.00" font-weight="700" fill="#000" text-anchor="start">HARDWARE</text>
+<text x="945.00" y="431.00" font-family="Inter" font-size="14.00" font-weight="300" fill="#000" text-anchor="end">CPU · memory · disk</text>
+<line x1="608.00" y1="234.00" x2="608.00" y2="443.00" stroke="#000" stroke-width="1.5"/>
+<polygon points="608.00,452.00 612.50,443.00 603.50,443.00" fill="#000"/>
+<line x1="628.00" y1="452.00" x2="628.00" y2="243.00" stroke="#000" stroke-width="1.5"/>
+<polygon points="628.00,234.00 623.50,243.00 632.50,243.00" fill="#000"/>
+<text x="600.00" y="470.00" font-family="Inter" font-size="11.00" font-weight="300" fill="#777" text-anchor="start">flechas: el clic baja, la respuesta sube</text>
+<rect x="600.00" y="485.00" width="360.00" height="180.00" rx="6" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="618.00" y="520.00" font-family="Inter" font-size="24.00" font-weight="700" fill="#000" text-anchor="start">TERMINAL: 5 COMMANDS</text>
+<text x="622.00" y="552.00" font-family="DejaVu Sans Mono" font-size="18.00" font-weight="700" fill="#000" text-anchor="start">ls</text>
+<text x="712.00" y="552.00" font-family="Inter" font-size="17.00" font-weight="400" fill="#000" text-anchor="start">→ show the files</text>
+<text x="622.00" y="577.00" font-family="DejaVu Sans Mono" font-size="18.00" font-weight="700" fill="#000" text-anchor="start">cd</text>
+<text x="712.00" y="577.00" font-family="Inter" font-size="17.00" font-weight="400" fill="#000" text-anchor="start">→ change folder</text>
+<text x="622.00" y="602.00" font-family="DejaVu Sans Mono" font-size="18.00" font-weight="700" fill="#000" text-anchor="start">pwd</text>
+<text x="712.00" y="602.00" font-family="Inter" font-size="17.00" font-weight="400" fill="#000" text-anchor="start">→ where am I?</text>
+<text x="622.00" y="627.00" font-family="DejaVu Sans Mono" font-size="18.00" font-weight="700" fill="#000" text-anchor="start">mkdir</text>
+<text x="712.00" y="627.00" font-family="Inter" font-size="17.00" font-weight="400" fill="#000" text-anchor="start">→ new folder</text>
+<text x="622.00" y="652.00" font-family="DejaVu Sans Mono" font-size="18.00" font-weight="700" fill="#000" text-anchor="start">sudo</text>
+<text x="712.00" y="652.00" font-family="Inter" font-size="17.00" font-weight="400" fill="#000" text-anchor="start">→ admin (careful!)</text>
 </svg>

@@ -51,7 +51,7 @@ The Arch family: Arch Linux, Manjaro and CachyOS. They are fast, always up to da
 who like to control everything.
 There are also special distros, like Kali Linux for security, or SteamOS for video games.
 
-## [layers] How Linux works — Board 3
+## [layers] How Linux works — Board 2
 We can imagine Linux as layers, like a cake.
 At the bottom is the hardware: the physical parts of the computer.
 On top of the hardware is the kernel.
@@ -59,14 +59,14 @@ On top of the kernel is the shell, and the programs and services of the system.
 And at the top are the applications: the browser, the music player, the games.
 When you click on something, your message goes down through the layers, and the answer comes back up.
 
-## [desktop] Desktop and terminal — Board 3
+## [desktop] Desktop and terminal — Board 2
 You can use Linux in two ways.
 The first way is with a desktop environment, with windows, icons and a mouse, like Windows.
 The most popular desktops are GNOME and KDE Plasma.
 The second way is with the terminal. The terminal is a window where you write commands.
 It looks difficult, but it is very fast and powerful.
 
-## [commands] Five basic commands — Board 3
+## [commands] Five basic commands — Board 2
 Here are five basic commands.
 "ls" shows the files in a folder.
 "cd" changes the folder.
@@ -74,14 +74,14 @@ Here are five basic commands.
 "mkdir" creates a new folder.
 And "sudo" lets you do things as the administrator. Be careful with sudo!
 
-## [everywhere] Linux is everywhere — Board 4
+## [everywhere] Linux is everywhere — Board 3
 Now, where is Linux? Everywhere!
 Most of the servers on the internet use Linux: Google, Facebook, Netflix, Wikipedia.
 Android, the system on most phones in the world, uses the Linux kernel.
 The five hundred most powerful supercomputers in the world all use Linux.
 You can also find it in smart TVs, cars, routers, and even on Mars, in a NASA helicopter.
 
-## [why] Why use Linux? — Board 4
+## [why] Why use Linux? — Board 3
 So, why use Linux?
 One: it is free.
 Two: it is secure. It has fewer viruses, and updates are fast.
@@ -89,7 +89,7 @@ Three: it is customizable. You can change almost everything.
 Four: it gives a second life to old computers.
 And five: it has a big, friendly community that helps you.
 
-## [outro] Conclusion and quiz — Board 4
+## [outro] Conclusion and quiz — Board 3
 To finish: Linux is a free operating system, made by people all around the world,
 and it is in your phone, your TV and the internet.
 Now it's your turn! Scan the QR code on the cards and answer the quiz "What Linux are you?".

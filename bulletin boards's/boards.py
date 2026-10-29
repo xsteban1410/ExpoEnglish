@@ -1,5 +1,5 @@
-"""Boceto B/N de las 4 carteleras (pliego 100 × 70 cm, horizontal). 1 unidad = 1 mm.
-Genera board1..4.svg; build.sh los pasa a PDF/.vectorcraft con VectorCraft y los une con PdfCraft."""
+"""Boceto B/N de las 3 carteleras (pliego 100 × 70 cm, horizontal). 1 unidad = 1 mm.
+Genera board1..3.svg; build.sh los pasa a PDF/.vectorcraft con VectorCraft y los une con PdfCraft."""
 import os
 import sys
 
@@ -17,7 +17,7 @@ def cap_cm(size):
     return f"{size * 0.73 / 10:.1f}".replace(".", ",")
 
 
-def board(n, title, subtitle):
+def board(n, title, subtitle, size=T):
     s = Svg(W, H)
     for x in range(100, W, 100):  # cuadrícula de 10 cm para copiar a escala
         s.line(x, 0, x, H, GRAY, 0.3, "4 4")
@@ -26,10 +26,10 @@ def board(n, title, subtitle):
         s.line(0, y, W, y, GRAY, 0.3, "4 4")
         s.text(2, y - 2, f"{y // 10}", 6, fill=GRAY)
     s.rect(1, 1, W - 2, H - 2, sw=1)
-    s.text(40, 115, title, T, 700)
+    s.text(40, 115, title, size, 700)
     s.text(42, 160, subtitle, 28, 300)
-    s.text(40, 690, f"Pliego {n}/4 · 100 × 70 cm horizontal · cuadrícula = 10 cm · "
-                    f"alto de letra: título ≈ {cap_cm(T)} cm, encabezados ≈ {cap_cm(HD)} cm, "
+    s.text(40, 690, f"Pliego {n}/3 · 100 × 70 cm horizontal · cuadrícula = 10 cm · "
+                    f"alto de letra: título ≈ {cap_cm(size)} cm, encabezados ≈ {cap_cm(HD)} cm, "
                     f"texto ≈ {cap_cm(TX)} cm", 11, fill=NOTE, italic=True)
     return s
 
@@ -82,61 +82,49 @@ card(s, 660, 450, 300, 210, "FREE & OPEN",
      "Free: $0 + freedom to use, study, change and share.\nOpen source: the code is public.", 19)
 s.save("board1.svg")
 
-# ---------- Pliego 2: Distros ----------
-s = board(2, "DISTROS", "Distro = Linux kernel + programs + design + tools.")
-s.rect(370, 190, 260, 60, sw=1.5, rx=6)
-s.text(500, 230, "LINUX KERNEL", 26, 700, anchor="middle")
-fams = [("DEBIAN FAMILY", ["Debian", "Ubuntu", "Linux Mint"], "stable · great for beginners"),
-        ("RED HAT FAMILY", ["Fedora", "Red Hat Enterprise"], "modern · used by companies"),
-        ("ARCH FAMILY", ["Arch Linux", "Manjaro", "CachyOS"], "fast · always up to date")]
+# ---------- Pliego 2: Distros & how it works ----------
+s = board(2, "DISTROS & HOW IT WORKS", "Same kernel, many flavours. And Linux works in layers.", 62)
+s.rect(190, 185, 220, 52, sw=1.5, rx=6)
+s.text(300, 220, "LINUX KERNEL", 24, 700, anchor="middle")
+fams = [("DEBIAN", ["Debian", "Ubuntu", "Linux Mint"], "for beginners"),
+        ("RED HAT", ["Fedora", "Red Hat (RHEL)"], "for companies"),
+        ("ARCH", ["Arch Linux", "Manjaro", "CachyOS"], "fast & up to date")]
 for i, (head, items, desc) in enumerate(fams):
-    cx = 175 + i * 325
-    s.arrow(500, 250, cx, 312, sw=1.2)
-    s.rect(cx - 140, 315, 280, 210, sw=1.2, rx=6)
-    s.text(cx, 352, head, 24, 700, anchor="middle")
-    s.line(cx - 120, 366, cx + 120, 366)
+    cx = 120 + i * 180
+    s.arrow(300, 237, cx, 282, sw=1.2)
+    s.rect(cx - 80, 285, 160, 205, sw=1.2, rx=6)
+    s.text(cx, 318, head, 22, 700, anchor="middle")
+    s.text(cx, 338, "family", 14, anchor="middle", italic=True)
+    s.line(cx - 65, 350, cx + 65, 350)
     for j, it in enumerate(items):
-        s.text(cx, 404 + j * 34, it, TX, anchor="middle")
-    s.text(cx, 510, desc, 16, italic=True, anchor="middle")
-card(s, 40, 550, 440, 115, "SPECIAL DISTROS",
-     "Kali Linux → security · SteamOS → video games", 19)
-card(s, 520, 550, 440, 115, "LIKE ICE CREAM",
-     "Same base, many flavours. There are hundreds of distros!", 19)
+        s.text(cx, 384 + j * 30, it, 18, anchor="middle")
+    s.text(cx, 478, desc, 14, italic=True, anchor="middle")
+card(s, 40, 515, 520, 150, "SPECIAL DISTROS",
+     "Kali Linux → security · SteamOS → games\nLike ice cream: same base, many flavours!", 19)
+
+s.text(600, 212, "HOW IT WORKS", HD, 700)
+for i, (head, sub) in enumerate([("APPLICATIONS", "browser · games"), ("SHELL & SYSTEM", "commands"),
+                                 ("KERNEL", "the heart"), ("HARDWARE", "CPU · memory · disk")]):
+    y = 232 + i * 56
+    s.rect(645, y, 315, 48, sw=1.2 if head != "KERNEL" else 2.5, rx=6)
+    s.text(660, y + 31, head, 20, 700)
+    s.text(945, y + 31, sub, 14, anchor="end", italic=True)
+s.arrow(608, 234, 608, 452, sw=1.5)
+s.arrow(628, 452, 628, 234, sw=1.5)
+note(s, 600, 470, "flechas: el clic baja, la respuesta sube")
+
+s.rect(600, 485, 360, 180, sw=1.2, rx=6)
+s.text(618, 520, "TERMINAL: 5 COMMANDS", 24, 700)
+cmds = [("ls", "show the files"), ("cd", "change folder"), ("pwd", "where am I?"),
+        ("mkdir", "new folder"), ("sudo", "admin (careful!)")]
+for j, (c, d) in enumerate(cmds):
+    y = 552 + j * 25
+    s.text(622, y, c, 18, 700, family=MONO)
+    s.text(712, y, "→ " + d, 17)
 s.save("board2.svg")
 
-# ---------- Pliego 3: How does it work? ----------
-s = board(3, "HOW DOES IT WORK?", "Linux is like a cake: it has layers.")
-layers = [("APPLICATIONS", "browser · music · games"), ("SHELL & SYSTEM", "commands · services"),
-          ("KERNEL", "the heart"), ("HARDWARE", "CPU · memory · disk · screen")]
-for i, (head, sub) in enumerate(layers):
-    y = 190 + i * 115
-    s.rect(110, y, 360, 100, sw=1.2 if head != "KERNEL" else 2.5, rx=6)
-    s.text(290, y + 45, head, 26, 700, anchor="middle")
-    s.text(290, y + 78, sub, 17, anchor="middle", italic=True)
-s.arrow(60, 200, 60, 640, sw=1.5)
-s.arrow(85, 640, 85, 200, sw=1.5)
-note(s, 40, 670, "flechas: el clic baja, la respuesta sube")
-
-s.rect(520, 190, 440, 230, sw=1.2, rx=6)
-s.text(538, 232, "DESKTOP  vs  TERMINAL", HD, 700)
-s.line(740, 250, 740, 405, dash="6 4")
-s.para(538, 255, "Windows, icons and a mouse. GNOME · KDE Plasma", 18, 190)
-s.para(758, 255, "Write commands. Fast and powerful!", 18, 185)
-s.rect(758, 340, 180, 60, fill="#000", rx=4)
-s.text(770, 378, "$ _", 24, 700, fill="#fff", family=MONO)
-
-s.rect(520, 450, 440, 210, sw=1.2, rx=6)
-s.text(538, 492, "5 BASIC COMMANDS", HD, 700)
-cmds = [("ls", "show the files"), ("cd", "change folder"), ("pwd", "where am I?"),
-        ("mkdir", "new folder"), ("sudo", "admin power (careful!)")]
-for j, (c, d) in enumerate(cmds):
-    y = 528 + j * 28
-    s.text(545, y, c, 20, 700, family=MONO)
-    s.text(650, y, "→ " + d, 19)
-s.save("board3.svg")
-
-# ---------- Pliego 4: Linux is everywhere ----------
-s = board(4, "LINUX IS EVERYWHERE", "You use it every day, maybe without knowing it!")
+# ---------- Pliego 3: Linux is everywhere ----------
+s = board(3, "LINUX IS EVERYWHERE", "You use it every day, maybe without knowing it!")
 places = [("SERVERS", "Most of the internet: Google, Netflix"), ("ANDROID", "Billions of phones"),
           ("SUPERCOMPUTERS", "500 of the top 500"), ("TVs & CARS", "Smart TVs, cars, routers"),
           ("MARS", "NASA Ingenuity helicopter"), ("GAMES", "Steam Deck (SteamOS)")]
@@ -163,5 +151,5 @@ s.text(72, 640, "xsteban1410.github.io/ExpoEnglish", 18, family=MONO)
 s.rect(800, 515, 140, 140, dash="5 4")
 s.add(qr_group(QUIZ_URL, 810, 525, 120))
 note(s, 640, 660, "pega aquí el QR impreso (≈ 14 cm)")
-s.save("board4.svg")
-print("ok: board1..4.svg")
+s.save("board3.svg")
+print("ok: board1..3.svg")
