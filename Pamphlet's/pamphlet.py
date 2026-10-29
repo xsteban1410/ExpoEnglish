@@ -6,7 +6,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "tools"))
-from svgkit import Svg, crop_marks  # noqa: E402
+from svgkit import Svg, crop_marks, qr_group  # noqa: E402
 
 PW, PH = 215.9, 279.4             # carta
 MARGIN = 6
@@ -17,6 +17,7 @@ WINE, LILAC, LAGOON, PARCH, MIST, INK, STONE, PAPER = (
 # Blanco translúcido sobre las bandas, ya mezclado (VectorCraft/impresión sin transparencias).
 ON_WINE, ON_LAGOON, LAGOON_CELL, LAGOON_LINE = "#c6bbbd", "#c2cfd0", "#2a595a", "#6d8e8e"
 MONO = "DejaVu Sans Mono"
+QUIZ_URL = "https://xsteban1410.github.io/ExpoEnglish/"
 
 
 def front(s):
@@ -43,9 +44,14 @@ def front(s):
     by = 104
     s.rect(0, by, W, H - by, "none", WINE, 0)
     s.text(M, by + 8, "It's everywhere", 3.8, 500, PAPER)
-    s.para(M, by + 10.5, "Internet servers, Android phones, smart TVs, cars, routers, "
-                         "the Steam Deck and even a NASA helicopter on Mars.", 2.7, W - 2 * M, 1.35, fill=ON_WINE)
-    s.text(M, H - 5, "Free · Secure · Customizable · Big community", 2.3, 600, PAPER)
+    qs = 22                                   # QR → encuesta, en tarjeta blanca a la derecha
+    qx, qy = W - M - qs - 3, by + (H - by - qs - 6) / 2
+    s.rect(qx, qy, qs + 6, qs + 6, "none", PAPER, 0, rx=3)
+    s.add(qr_group(QUIZ_URL, qx + 3, qy + 3, qs, INK))
+    tw = qx - M - 4
+    s.para(M, by + 10.5, "Servers, Android phones, smart TVs, cars and even "
+                         "a NASA helicopter on Mars.", 2.7, tw, 1.35, fill=ON_WINE)
+    s.text(M, H - 5, "What Linux are you? Scan the QR →", 2.5, 600, PAPER)
 
 
 def back(s):
