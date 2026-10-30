@@ -1,32 +1,31 @@
 # Short script — the 3 poster boards (≈ 1 min – 1 min 30 s)
 
-About 155 words. Speak slowly and point at each part of the board.
+Real Linux user mode: casual, a bit of swearing, lots of memes. About 170 words.
+Say it with confidence, like you've broken your system three times this week.
 Lines in [brackets] are stage notes (in Spanish) — don't read them.
 
 ---
 
 **[Pliego 1 — señala el título]**
-Hello everyone! Our topic today is Linux.
-Linux is an operating system, like Windows or macOS.
+Hey guys. So, Linux. This shit runs the world, and nobody talks about it.
+It's an operating system, like Windows, but without the ads and the forced updates.
 **[señala «The kernel»]**
-Its heart is the kernel: the part that talks to the hardware.
+The heart is the kernel: the thing that talks to your hardware so you don't have to.
 **[señala la línea del tiempo]**
-It started in 1991, when a Finnish student, Linus Torvalds, made it as a hobby.
-And it is free and open source: anyone can use it, change it and share it.
+In 1991, Linus Torvalds said: "it's just a hobby, it won't be big." Yeah… about that.
+And it's free. Like, actually free. Use it, break it, fix it, share it.
 
 **[Pliego 2 — señala el árbol]**
-There are hundreds of versions of Linux, called distros.
-They come in families: Debian and Ubuntu for beginners, Fedora for companies,
-and Arch for people who want speed and control.
+Now, distros. There are hundreds, and every Linux user thinks theirs is the best.
+Ubuntu if you're normal, Fedora if you're a programmer,
+and Arch if you want to tell everybody: "I use Arch, by the way."
 **[señala las capas]**
-Linux works in layers: hardware, kernel, system, and your applications at the top.
+It works in layers, like a cake. Hardware, kernel, system, apps.
 **[señala los comandos]**
-In the terminal you can use simple commands, like "ls" to see your files.
+And the terminal. Looks scary, but "ls" just shows your files. Relax.
 
 **[Pliego 3 — señala las cajas]**
-And Linux is everywhere: on internet servers, in Android phones,
-in all of the top supercomputers, and even on Mars!
-It's free, secure and customizable.
+Damn, Linux is everywhere: internet servers, Android, every top supercomputer… even on Mars.
 **[señala el QR]**
-Now scan the QR code and discover: what Linux are you?
-Thank you!
+So scan this QR and find out what Linux you are. No judging. Okay, a little judging.
+Thanks!
